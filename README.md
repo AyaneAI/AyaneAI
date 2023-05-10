@@ -24,5 +24,8 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [【Mac】你的Mac屏幕居然是Ipad Pro?](https://blog.csdn.net/qq_34102672/article/details/127762388)
+- [服务器设置](https://blog.csdn.net/qq_34102672/article/details/127476091)
+- [微软学生开发者峰会参加体验](https://blog.csdn.net/qq_34102672/article/details/127399154)
 <!-- BLOG-POST-LIST:END -->
  
