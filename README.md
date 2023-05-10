@@ -4,8 +4,8 @@
 
 一只纯业余的编程爱好者
 
-- 想要了解更多，请关注我的博客[秋风于渭水](https://www.tjsky.net)
-- Read more about my Blog [Blog](https://www.tjsky.net)
+- 想要了解更多，请关注我的博客[xxx](https://blog.csdn.net/qq_34102672)
+- Read more about my Blog [Blog](https://blog.csdn.net/qq_34102672)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
