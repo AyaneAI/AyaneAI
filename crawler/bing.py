@@ -52,11 +52,11 @@ if os.path.exists(file_path):
     content = repo.get_contents(file_path).decoded_content.decode('utf-8')
 
 # 使用正则表达式匹配注释并提取它们之间的内容
-pattern = r"<!-- BING-WALLPAPER:START -->(.*?)<!-- BING-WALLPAPER:END -->"
+pattern = r"<!--\s*BING-WALLPAPER:START\s*-->(.*?)<!--\s*BING-WALLPAPER:END\s*-->"
 matches = re.findall(pattern, content, re.DOTALL)
 
 # 替换图片
-image_md = "![" + image_copyright + "](" + image_url + "'" + image_title + "')"
+image_md = "![" + image_copyright + "](" + image_url + " '" + image_title + "')"
 for match in matches:
     content = content.replace(match, image_md)
 
