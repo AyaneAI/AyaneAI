@@ -14,7 +14,7 @@ print(data)
 # 获取图片地址
 image_info = data['images'][0]
 image_url = 'https://www.bing.com' + image_info['url']
-image_title = image_info['tile']
+image_title = image_info['title']
 image_copyright = image_info['copyright']
 
 # 存储路径到markdown文件
