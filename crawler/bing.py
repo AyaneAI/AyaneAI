@@ -23,19 +23,19 @@ g = Github(os.environ['GITHUB_TOKEN'])
 # 获取代码仓库
 repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])
 # 读取 data.md 文件内容
-path = 'data.md'
-try:
-    content = repo.get_contents(path).decoded_content.decode('utf-8')
-except:
-    content = ''
-print(repo.get_contents(path))
+file_path = 'data.md'
+
+# 获取文件原内容
+content = ''
+if os.path.exists(file_path):
+    content = repo.get_contents(file_path).decoded_content.decode('utf-8')
+
 # 增量插入内容
 new_content = f'| {today} | {image_title} | {image_copyright} | {image_url} |\n'
 if content:
     new_content = content + new_content
 
-# 提交文件修改或创建文件
-if content:
-    repo.update_file(path, 'Update data', new_content, repo.get_contents(path).sha)
+if os.path.exists(file_path):
+    repo.update_file(file_path, 'Update data', new_content, repo.get_contents(file_path).sha)
 else:
-    repo.create_file(path, 'Create data', new_content)
+    repo.create_file(file_path, 'Create data', new_content)
