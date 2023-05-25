@@ -10,7 +10,7 @@ today = datetime.date.today().strftime('%Y%m%d')
 url = 'https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1'
 response = requests.get(url)
 data = response.json()
-print(data)
+
 # 获取图片地址
 image_info = data['images'][0]
 image_url = 'https://www.bing.com' + image_info['url']
@@ -28,7 +28,7 @@ try:
     content = repo.get_contents(path).decoded_content.decode('utf-8')
 except:
     content = ''
-
+print(repo.get_contents(path))
 # 增量插入内容
 new_content = f'| {today} | {image_title} | {image_copyright} | {image_url} |\n'
 if content:
