@@ -5,10 +5,6 @@ import datetime
 # 获取当前日期
 today = datetime.date.today().strftime('%Y%m%d')
 
-# 创建文件夹
-if not os.path.exists(today):
-    os.mkdir(today)
-
 # 请求 Bing 每日壁纸
 url = 'https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1'
 response = requests.get(url)
@@ -19,5 +15,16 @@ image_url = 'https://www.bing.com' + data['images'][0]['url']
 
 # 下载图片
 response = requests.get(image_url)
-with open(f'./{today}/{today}.jpg', 'wb') as f:
+
+# 创建文件夹
+current_file_path = os.path.abspath(__file__)
+current_dir_path = os.path.dirname(os.path.dirname(current_file_path))
+img_save_dir = os.path.join(current_dir_path, 'bing_bg', '')
+
+if not os.path.exists(img_save_dir):
+    os.mkdir(img_save_dir)
+
+img_path = os.path.join(img_save_dir, today+'.jpg')
+
+with open(img_path, 'wb') as f:
     f.write(response.content)
