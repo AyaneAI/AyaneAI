@@ -56,7 +56,7 @@ pattern = r"<!-- BING-WALLPAPER:START -->(.*?)<!-- BING-WALLPAPER:END -->"
 matches = re.findall(pattern, content, re.DOTALL)
 
 # 替换图片
-image_md = "![" + image_info + "](" + image_url + "'" + image_title + "')"
+image_md = "![" + image_copyright + "](" + image_url + "'" + image_title + "')"
 for match in matches:
     content = content.replace(match, image_md)
 
