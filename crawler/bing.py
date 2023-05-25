@@ -17,12 +17,7 @@ image_url = 'https://www.bing.com' + data['images'][0]['url']
 response = requests.get(image_url)
 
 # 创建文件夹
-img_save_dir = os.path.join('crawler', 'bing_bg')
+os.makedirs('images', exist_ok=True)
 
-if not os.path.exists(img_save_dir):
-    os.mkdir(img_save_dir)
-
-img_path = os.path.join(img_save_dir, today+'.jpg')
-
-with open(img_path, 'wb') as f:
+with open(f'images/{today}.jpg', 'wb') as f:
     f.write(response.content)
