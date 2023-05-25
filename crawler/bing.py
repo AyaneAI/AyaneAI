@@ -21,3 +21,5 @@ os.makedirs('images', exist_ok=True)
 
 with open(f'images/{today}.jpg', 'wb') as f:
     f.write(response.content)
+
+print(os.listdir('images'))
