@@ -10,9 +10,12 @@ today = datetime.date.today().strftime('%Y%m%d')
 url = 'https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1'
 response = requests.get(url)
 data = response.json()
-
+print(data)
 # 获取图片地址
-image_url = 'https://www.bing.com' + data['images'][0]['url']
+image_info = data['images'][0]
+image_url = 'https://www.bing.com' + image_info['url']
+image_title = image_info['tile']
+image_copyright = image_info['copyright']
 
 # 存储路径到markdown文件
 # 获取 GitHub API 认证信息
@@ -27,7 +30,7 @@ except:
     content = ''
 
 # 增量插入内容
-new_content = f'| {datetime.now().isoformat()} | new_value |\n'
+new_content = f'| {today} | {image_title} | {image_copyright} | {image_url} |\n'
 if content:
     new_content = content + new_content
 
