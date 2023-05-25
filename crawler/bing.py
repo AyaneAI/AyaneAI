@@ -1,6 +1,7 @@
 import requests
 import os
 import datetime
+from github import Github
 
 # 获取当前日期
 today = datetime.date.today().strftime('%Y%m%d')
@@ -13,13 +14,15 @@ data = response.json()
 # 获取图片地址
 image_url = 'https://www.bing.com' + data['images'][0]['url']
 
-# 下载图片
-response = requests.get(image_url)
-
-# 创建文件夹
-os.makedirs('images', exist_ok=True)
-
-with open(f'images/{today}.jpg', 'wb') as f:
-    f.write(response.content)
-
-print(os.listdir('images'))
+# 存储路径到markdown文件
+g = Github(os.environ['GITHUB_TOKEN'])
+repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])
+path = 'data.md'
+content = repo.get_contents(path).decoded_content.decode('utf-8')
+lines = content.strip().split('\n')
+last_line = lines[-1]
+last_value = int(last_line.split('|')[1].strip())
+new_value = last_value + 1
+new_line = f'| {datetime.now().isoformat()} | {new_value} |\n'
+new_content = content + new_line
+repo.update_file(path, 'Update data', new_content, repo.get_contents(path).sha)
