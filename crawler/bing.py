@@ -15,14 +15,14 @@ data = response.json()
 image_url = 'https://www.bing.com' + data['images'][0]['url']
 
 # 存储路径到markdown文件
+# 获取 GitHub API 认证信息
 g = Github(os.environ['GITHUB_TOKEN'])
+# 获取代码仓库
 repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])
+# 读取 data.md 文件内容
 path = 'data.md'
 content = repo.get_contents(path).decoded_content.decode('utf-8')
-lines = content.strip().split('\n')
-last_line = lines[-1]
-last_value = int(last_line.split('|')[1].strip())
-new_value = last_value + 1
-new_line = f'| {datetime.now().isoformat()} | {new_value} |\n'
-new_content = content + new_line
+# 修改文件内容
+new_content = content.replace('old_value', 'new_value')
+# 提交文件修改
 repo.update_file(path, 'Update data', new_content, repo.get_contents(path).sha)
