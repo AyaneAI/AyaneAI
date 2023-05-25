@@ -26,8 +26,11 @@ try:
 except:
     content = ''
 
-# 修改文件内容
-new_content = content.replace('old_value', 'new_value')
+# 增量插入内容
+new_content = f'| {datetime.now().isoformat()} | new_value |\n'
+if content:
+    new_content = content + new_content
+
 # 提交文件修改或创建文件
 if content:
     repo.update_file(path, 'Update data', new_content, repo.get_contents(path).sha)
