@@ -21,5 +21,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r crawler/requirements.txt
         pip install PyGithub
-    - name: Run crawler
+    - name: Update data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: python crawler/bing.py
