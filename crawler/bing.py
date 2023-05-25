@@ -21,8 +21,15 @@ g = Github(os.environ['GITHUB_TOKEN'])
 repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])
 # 读取 data.md 文件内容
 path = 'data.md'
-content = repo.get_contents(path).decoded_content.decode('utf-8')
+try:
+    content = repo.get_contents(path).decoded_content.decode('utf-8')
+except:
+    content = ''
+
 # 修改文件内容
 new_content = content.replace('old_value', 'new_value')
-# 提交文件修改
-repo.update_file(path, 'Update data', new_content, repo.get_contents(path).sha)
+# 提交文件修改或创建文件
+if content:
+    repo.update_file(path, 'Update data', new_content, repo.get_contents(path).sha)
+else:
+    repo.create_file(path, 'Create data', new_content)
