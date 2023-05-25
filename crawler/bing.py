@@ -31,7 +31,7 @@ if os.path.exists(file_path):
     content = repo.get_contents(file_path).decoded_content.decode('utf-8')
 
 # 增量插入内容
-new_content = f'| {today} | {image_title} | {image_copyright} | {image_url} |\n'
+new_content = f'{today} | [{image_copyright}]({image_url})\n'
 if content:
     new_content = content + new_content
 
