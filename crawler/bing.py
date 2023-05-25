@@ -19,5 +19,5 @@ image_url = 'https://www.bing.com' + data['images'][0]['url']
 
 # 下载图片
 response = requests.get(image_url)
-with open(f'{today}/{today}.jpg', 'wb') as f:
+with open(f'./{today}/{today}.jpg', 'wb') as f:
     f.write(response.content)
