@@ -19,6 +19,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        pip install -r crawler/requirements.txt
     - name: Run crawler
-      run: python bing.py
+      run: python crawler/bing.py
