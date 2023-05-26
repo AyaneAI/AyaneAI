@@ -53,12 +53,15 @@ if os.path.exists(file_path):
 
 # 使用正则表达式匹配注释并提取它们之间的内容
 pattern = r"<!--\s*BING-WALLPAPER:START\s*-->(.*?)<!--\s*BING-WALLPAPER:END\s*-->"
-matches = re.findall(pattern, content, re.DOTALL)
+match = re.search(pattern, content, re.DOTALL)
 
 # 替换图片
-image_md = "![" + image_copyright + "](" + image_url + " '" + image_title + "')"
-for match in matches:
-    content = content.replace(match, image_md)
+image_md = "<!-- BING-WALLPAPER:START --><br>" + "![" + image_copyright + "](" + image_url + " '" + image_title + "')" + "<br><!-- BING-WALLPAPER:END -->"
+if match:
+    print("匹配成功")
+    content = content.replace("<!-- BING-WALLPAPER:START -->" + match.group(1) + "<!-- BING-WALLPAPER:END -->", image_md)
+else:
+    print("匹配失败")
 
 if os.path.exists(file_path):
     repo.update_file(file_path, 'Update data', content, repo.get_contents(file_path).sha)
