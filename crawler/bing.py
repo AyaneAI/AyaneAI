@@ -56,7 +56,7 @@ pattern = r"<!--\s*BING-WALLPAPER:START\s*-->(.*?)<!--\s*BING-WALLPAPER:END\s*--
 match = re.search(pattern, content, re.DOTALL)
 
 # 替换图片
-image_md = "<!-- BING-WALLPAPER:START --><br>" + "![" + image_copyright + "](" + image_url + " '" + image_title + "')" + "<br><!-- BING-WALLPAPER:END -->"
+image_md = "<!-- BING-WALLPAPER:START --><br>" + "![" + image_copyright + "](" + image_url + " \"" + image_title + "\")" + "<br><!-- BING-WALLPAPER:END -->"
 if match:
     print("匹配成功")
     content = content.replace("<!-- BING-WALLPAPER:START -->" + match.group(1) + "<!-- BING-WALLPAPER:END -->", image_md)
