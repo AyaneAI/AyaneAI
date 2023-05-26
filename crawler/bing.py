@@ -33,9 +33,7 @@ if os.path.exists(file_path):
     content = repo.get_contents(file_path).decoded_content.decode('utf-8')
 
 # 增量插入内容
-new_content = f"""
-{today} | [{image_copyright}]({image_url})
-"""
+new_content = f"""{today} | [{image_copyright}]({image_url})"""
 
 if content:
     new_content = content + new_content
@@ -67,12 +65,18 @@ image_after = f"""
 
 if match:
     print("匹配成功")
-    image_prev = f"""
+    image_prev_1 = f"""
     <!-- BING-WALLPAPER:START -->
     <img src="{match.group(1)}">
     <!-- BING-WALLPAPER:END -->
     """
-    content = content.replace(image_prev, image_after)
+    image_prev_2 = f"""
+    <!-- BING-WALLPAPER:START -->
+    <img src="{match.group(1)}">
+    <!-- BING-WALLPAPER:END -->
+    """
+    content = content.replace(image_prev_1, image_after)
+    content = content.replace(image_prev_2, image_after)
 else:
     print("匹配失败")
 
