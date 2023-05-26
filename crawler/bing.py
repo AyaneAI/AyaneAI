@@ -59,27 +59,34 @@ pattern = r"<!--\s*BING-WALLPAPER:START\s*-->(.*?)<!--\s*BING-WALLPAPER:END\s*--
 match = re.search(pattern, content, re.DOTALL)
 
 # 替换图片
+image_prev_1 = f"""
+<!-- BING-WALLPAPER:START -->
+<!-- BING-WALLPAPER:END -->
+"""
+
 image_after = f"""
 <!-- BING-WALLPAPER:START -->
 <img src="{image_url}">
 <!-- BING-WALLPAPER:END -->
 """
 
+content = content.replace(image_prev_1, image_after)
+
+match_str = ""
 if match:
     print("匹配成功")
-    image_prev_1 = f"""
-    <!-- BING-WALLPAPER:START -->
-    <!-- BING-WALLPAPER:END -->
-    """
-    image_prev_2 = f"""
-    <!-- BING-WALLPAPER:START -->
-    <img src="{match.group(1)}">
-    <!-- BING-WALLPAPER:END -->
-    """
-    content = content.replace(image_prev_1, image_after)
-    content = content.replace(image_prev_2, image_after)
+    match_str = match.group(1)
 else:
     print("匹配失败")
+
+image_prev_2 = f"""
+<!-- BING-WALLPAPER:START -->
+<img src="{match_str}">
+<!-- BING-WALLPAPER:END -->
+"""
+
+if match:
+    content = content.replace(image_prev_2, image_after)
 
 if os.path.exists(file_path):
     repo.update_file(file_path, 'Update data', content, repo.get_contents(file_path).sha)
