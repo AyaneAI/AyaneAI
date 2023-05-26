@@ -26,4 +26,8 @@
 
 ### Bing Wallpaper
 
-<!-- BING-WALLPAPER:START --><br>![Where the grass is greener](https://www.bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)<br><!-- BING-WALLPAPER:END -->
+
+<!-- BING-WALLPAPER:START -->
+<img src="https://www.bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp">
+!-- BING-WALLPAPER:END -->
+
