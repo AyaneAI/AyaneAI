@@ -59,7 +59,7 @@ match = re.search(pattern, content, re.DOTALL)
 image_md = f"""
 <!-- BING-WALLPAPER:START -->
 <img src="{image_url}">
-!-- BING-WALLPAPER:END -->
+<!-- BING-WALLPAPER:END -->
 """
 if match:
     print("匹配成功")
