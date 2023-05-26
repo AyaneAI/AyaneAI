@@ -28,5 +28,4 @@
 
 ### Bing Wallpaper
 
-<!-- BING-WALLPAPER:START -->
-<!-- BING-WALLPAPER:END -->
+<!-- BING-WALLPAPER:START --><br>![Saksun, Faroe Islands, Denmark (© miroslav_1/Getty Images)](https://www.bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp 'Where the grass is greener')<br><!-- BING-WALLPAPER:END -->
