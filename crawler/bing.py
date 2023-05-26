@@ -3,6 +3,7 @@ import os
 import datetime
 from github import Github
 import re
+import textwrap
 
 # 获取当前日期
 today = datetime.date.today().strftime('%Y%m%d')
@@ -33,9 +34,9 @@ if os.path.exists(file_path):
     content = repo.get_contents(file_path).decoded_content.decode('utf-8')
 
 # 增量插入内容
-new_content = f"""
+new_content = textwrap.dedent(f"""
 {today} | [{image_copyright}]({image_url})
-"""
+""")
 
 if content:
     new_content = content + new_content
@@ -59,34 +60,27 @@ pattern = r"<!--\s*BING-WALLPAPER:START\s*-->(.*?)<!--\s*BING-WALLPAPER:END\s*--
 match = re.search(pattern, content, re.DOTALL)
 
 # 替换图片
-image_prev_1 = f"""
-<!-- BING-WALLPAPER:START -->
-<!-- BING-WALLPAPER:END -->
-"""
-
 image_after = f"""
 <!-- BING-WALLPAPER:START -->
 <img src="{image_url}">
 <!-- BING-WALLPAPER:END -->
 """
 
-content = content.replace(image_prev_1, image_after)
-
-match_str = ""
 if match:
     print("匹配成功")
-    match_str = match.group(1)
+    image_prev_1 = textwrap.dedent(f"""
+    <!-- BING-WALLPAPER:START -->
+    <!-- BING-WALLPAPER:END -->
+    """)
+    image_prev_2 = textwrap.dedent(f"""
+    <!-- BING-WALLPAPER:START -->
+    <img src="{match.group(1)}">
+    <!-- BING-WALLPAPER:END -->
+    """)
+    content = content.replace(image_prev_1, image_after)
+    content = content.replace(image_prev_2, image_after)
 else:
     print("匹配失败")
-
-image_prev_2 = f"""
-<!-- BING-WALLPAPER:START -->
-<img src="{match_str}">
-<!-- BING-WALLPAPER:END -->
-"""
-
-if match:
-    content = content.replace(image_prev_2, image_after)
 
 if os.path.exists(file_path):
     repo.update_file(file_path, 'Update data', content, repo.get_contents(file_path).sha)
