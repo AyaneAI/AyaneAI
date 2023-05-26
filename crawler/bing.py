@@ -60,11 +60,11 @@ pattern = r"<!--\s*BING-WALLPAPER:START\s*-->(.*?)<!--\s*BING-WALLPAPER:END\s*--
 match = re.search(pattern, content, re.DOTALL)
 
 # 替换图片
-image_after = f"""
+image_after = textwrap.dedent(f"""
 <!-- BING-WALLPAPER:START -->
 <img src="{image_url}">
 <!-- BING-WALLPAPER:END -->
-"""
+""")
 
 if match:
     print("匹配成功")
