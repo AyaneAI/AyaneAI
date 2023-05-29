@@ -18,7 +18,7 @@
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-**Latest Blog Posts**
+📚 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [Nginx 指定目录屏蔽国内外IP访问网站](https://www.tjsky.net/tutorial/685?pk_campaign=feed&pk_kwd=nginx-%25e6%258c%2587%25e5%25ae%259a%25e7%259b%25ae%25e5%25bd%2595%25e5%25b1%258f%25e8%2594%25bd%25e5%259b%25bd%25e5%2586%2585%25e5%25a4%2596ip%25e8%25ae%25bf%25e9%2597%25ae%25e7%25bd%2591%25e7%25ab%2599)
@@ -30,11 +30,15 @@
 
 🎄 **Others**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuWenbo1996&layout=compact" />
+<img width="400" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuWenbo1996&layout=compact&show_icons=true&theme=cobalt" /><img width="400" height="140" src="https://card.yuy1n.io/card/76561198344110725/gradient3,en,badge,group">
 
-### Bing Wallpaper
+🗻 **Bing Wallpaper**
 
 <!-- BING-WALLPAPER:START -->
 <img src="https://www.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp">
 <!-- BING-WALLPAPER:END -->
+<div align="center">  
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
 
