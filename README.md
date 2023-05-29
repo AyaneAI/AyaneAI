@@ -4,12 +4,11 @@
 
 🍓 **About Me**
 
-- 🔭 主要使用: Python，Golang
+- 🔭 主要使用: Python
 - 🌱 推し: [聖代橋氷織](https://mzh.moegirl.org.cn/zh-hans/%E5%9C%A3%E4%BB%A3%E6%A1%A5%E5%86%B0%E7%BB%87), [西園寺風莉](https://mzh.moegirl.org.cn/%E8%A5%BF%E5%9B%AD%E5%AF%BA%E9%A3%8E%E8%8E%89)
-- 📫 E-mail: akibanzu@outlook.com
+- 📫 E-mail: 616562636@qq.com
 - 🍨 Blog: [Akiba's Blog](https://blog.anzu.link)
-- 🔏 OpenPGP: D1EF652A3015B1A2
-- 👯 About me: 一个渣渣 Ctfer, web/misc 方向
+- 👯 About me: 一个渣渣 AIer
 - 🌐 Languages: English, 中文, 日本語
 
 ❄️ **Skills**
