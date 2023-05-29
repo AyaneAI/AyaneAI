@@ -74,7 +74,7 @@ if match:
     """)
     image_prev_2 = textwrap.dedent(f"""
     <!-- BING-WALLPAPER:START -->
-    <img src="{match.group(1)}">
+    {match.group(1).strip()}
     <!-- BING-WALLPAPER:END -->
     """)
     content = content.replace(image_prev_1, image_after)
