@@ -1,6 +1,9 @@
-<a href="https://github.com/azmiao">
-  <img align="right" src="https://github-readme-stats-azmiao.vercel.app/api?username=WuWenbo1996&theme=buefy&show_icons=true&count_private=true" />
-</a>
+<div align="center">
+  <h1 style="color:#00BFFF;font-size:35px">⌈ AZMIAO ⌋</h1>
+  <h3 style="color:#333333;font-size:20px">这是一只废物中的战斗废物<br>✨ 京吹置顶图 ✨</h3>
+</div>
+
+![京吹](https://raw.githubusercontent.com/azmiao/azmiao/main/header_img.png)
 
 🍓 **About Me**
 
@@ -18,10 +21,6 @@
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-<a href="https://github.com/babbittry/life-progress-bar">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=WuWenbo1996&theme=buefy&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&count_private=true" />
-</a>
-
 📚 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
@@ -32,10 +31,23 @@
 - [使用 CPU 本地安装部署运行 ChatGLM-6B 获得自己的专属 AI 猫娘](https://www.tjsky.net/tutorial/664?pk_campaign=feed&pk_kwd=%25e4%25bd%25bf%25e7%2594%25a8-cpu-%25e6%259c%25ac%25e5%259c%25b0%25e8%25bf%2590%25e8%25a1%258c-chatglm-6b-%25e8%258e%25b7%25e5%25be%2597%25e8%2587%25aa%25e5%25b7%25b1%25e7%259a%2584%25e4%25b8%2593%25e5%25b1%259e-ai-%25e7%258c%25ab%25e5%25a8%2598)
 <!-- BLOG-POST-LIST:END -->
 
+⚡️ **Activities**
+
+<a href="https://github.com/azmiao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WuWenbo1996&theme=buefy&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/babbittry/life-progress-bar">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=WuWenbo1996&theme=buefy&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&count_private=true" />
+</a>
+
 🎄 **Others**
 
 <a href="https://github.com/babbittry/life-progress-bar">
-  <img align="center" width="400" height="140" src="https://card.yuy1n.io/card/76561198344110725/gradient3,en,badge,group">
+  <img width="400" height="140" src="https://card.yuy1n.io/card/76561198344110725/gradient3,en,badge,group">
+</a>
+
+<a href="https://github.com/babbittry/life-progress-bar">
+  <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuWenbo1996&layout=compact">
 </a>
 
 🗻 **Bing Wallpaper**
