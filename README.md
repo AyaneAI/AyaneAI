@@ -33,20 +33,20 @@
 
 ⚡️ **Activities**
 
-<a href="https://github.com/azmiao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WuWenbo1996&theme=buefy&show_icons=true&count_private=true" />
+<a href="https://github.com/WuWenbo1996">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=WuWenbo1996&theme=buefy&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/babbittry/life-progress-bar">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=WuWenbo1996&theme=buefy&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&count_private=true" />
+<a href="[https://github.com/babbittry/life-progress-bar](https://github.com/WuWenbo1996)">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=WuWenbo1996&theme=buefy&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&count_private=true" />
 </a>
 
 🎄 **Others**
 
-<a href="https://github.com/babbittry/life-progress-bar">
+<a href="https://github.com/WuWenbo1996">
   <img width="400" height="140" src="https://card.yuy1n.io/card/76561198344110725/gradient3,en,badge,group">
 </a>
 
-<a href="https://github.com/babbittry/life-progress-bar">
+<a href="https://github.com/WuWenbo1996">
   <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuWenbo1996&layout=compact&&bg_color=30,a6c0fe,f68084&title_color=fff&text_color=fff">
 </a>
 
