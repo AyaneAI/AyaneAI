@@ -18,6 +18,10 @@
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
+<a href="https://github.com/babbittry/life-progress-bar">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=WuWenbo1996&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+
 📚 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
@@ -30,15 +34,16 @@
 
 🎄 **Others**
 
-<img width="400" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuWenbo1996&layout=compact&show_icons=true&theme=cobalt" /><img width="400" height="140" src="https://card.yuy1n.io/card/76561198344110725/gradient3,en,badge,group">
+<a href="https://github.com/babbittry/life-progress-bar">
+  <img align="center" width="400" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuWenbo1996&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/babbittry/life-progress-bar">
+  <img align="center" width="400" height="140" src="https://card.yuy1n.io/card/76561198344110725/gradient3,en,badge,group">
+</a>
 
 🗻 **Bing Wallpaper**
 
 <!-- BING-WALLPAPER:START -->
 <img src="https://www.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp">
 <!-- BING-WALLPAPER:END -->
-<div align="center">  
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
 
