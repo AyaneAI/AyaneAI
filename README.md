@@ -41,6 +41,9 @@
 
 ⚡️ **Activities**
 
+<a href="https://github.com/WuWenbo1996">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WuWenbo1996&repo=GPUMonitor&bg_color=30,a6c0fe,f68084&title_color=fff&text_color=fff" />
+</a>
 
 🎄 **Others**
 
@@ -49,7 +52,7 @@
 </a>
 
 <a href="https://github.com/WuWenbo1996">
-  <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuWenbo1996&layout=compact&&bg_color=30,a6c0fe,f68084&title_color=fff&text_color=fff">
+  <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuWenbo1996&layout=compact&bg_color=30,a6c0fe,f68084&title_color=fff&text_color=fff">
 </a>
 
 🗻 **Bing Wallpaper**
