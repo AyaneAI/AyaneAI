@@ -5,6 +5,10 @@
 
 ![京吹](https://raw.githubusercontent.com/azmiao/azmiao/main/header_img.png)
 
+<a href="https://github.com/WuWenbo1996">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=WuWenbo1996&theme=buefy&show_icons=true&count_private=true" />
+</a>
+
 🍓 **About Me**
 
 - 🔭 主要使用: Python
@@ -13,6 +17,10 @@
 - 🍨 Blog: [Akiba's Blog](https://blog.anzu.link)
 - 👯 About me: 一个渣渣 AIer
 - 🌐 Languages: English, 中文, 日本語
+
+<!-- <a href="[https://github.com/babbittry/life-progress-bar](https://github.com/WuWenbo1996)">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=WuWenbo1996&theme=buefy&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&count_private=true" />
+</a> -->
 
 ❄️ **Skills**
 
@@ -33,13 +41,6 @@
 
 ⚡️ **Activities**
 
-<a href="https://github.com/WuWenbo1996">
-  <img width="400" height="140" src="https://github-readme-stats.vercel.app/api?username=WuWenbo1996&theme=buefy&show_icons=true&count_private=true" />
-</a>
-
-<a href="[https://github.com/babbittry/life-progress-bar](https://github.com/WuWenbo1996)">
-  <img width="400" height="140" src="https://github-readme-streak-stats.herokuapp.com?user=WuWenbo1996&theme=buefy&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&count_private=true" />
-</a>
 
 🎄 **Others**
 
