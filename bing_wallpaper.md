@@ -28,3 +28,5 @@
 20230529 | [Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii (© Naomi Hayes of Island Memories Photography/Getty Images)](https://www.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230530 | [Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii (© Naomi Hayes of Island Memories Photography/Getty Images)](https://www.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230531 | [Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)](https://www.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
