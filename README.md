@@ -34,10 +34,11 @@
 ⚡️ **Activities**
 
 <a href="https://github.com/WuWenbo1996">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=WuWenbo1996&theme=buefy&show_icons=true&count_private=true" />
+  <img width="400" height="140" src="https://github-readme-stats.vercel.app/api?username=WuWenbo1996&theme=buefy&show_icons=true&count_private=true" />
 </a>
+
 <a href="[https://github.com/babbittry/life-progress-bar](https://github.com/WuWenbo1996)">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=WuWenbo1996&theme=buefy&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&count_private=true" />
+  <img width="400" height="140" src="https://github-readme-streak-stats.herokuapp.com?user=WuWenbo1996&theme=buefy&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&count_private=true" />
 </a>
 
 🎄 **Others**
