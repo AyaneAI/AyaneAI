@@ -1,12 +1,12 @@
 <div align="center">
-  <h1 style="color:#00BFFF;font-size:35px">⌈ AZMIAO ⌋</h1>
+  <h1 style="color:#00BFFF;font-size:35px">⌈ AyaneAI ⌋</h1>
   <h3 style="color:#333333;font-size:20px">这是一只废物中的战斗废物<br>✨ 京吹置顶图 ✨</h3>
 </div>
 
 ![京吹](https://raw.githubusercontent.com/azmiao/azmiao/main/header_img.png)
 
 <a href="https://github.com/WuWenbo1996">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=WuWenbo1996&theme=buefy&show_icons=true&count_private=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AyaneAI&theme=buefy&show_icons=true&count_private=true" />
 </a>
 
 🍓 **About Me**
@@ -42,7 +42,7 @@
 ⚡️ **Activities**
 
 <a href="https://github.com/WuWenbo1996">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WuWenbo1996&repo=GPUMonitor&bg_color=30,a6c0fe,f68084&title_color=fff&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyaneAI&repo=GPUMonitor&bg_color=30,a6c0fe,f68084&title_color=fff&text_color=fff" />
 </a>
 
 🎄 **Others**
@@ -52,7 +52,7 @@
 </a>
 
 <a href="https://github.com/WuWenbo1996">
-  <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuWenbo1996&layout=compact&bg_color=30,a6c0fe,f68084&title_color=fff&text_color=fff">
+  <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaneAI&layout=compact&bg_color=30,a6c0fe,f68084&title_color=fff&text_color=fff">
 </a>
 
 🗻 **Bing Wallpaper**
