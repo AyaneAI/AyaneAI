@@ -36,3 +36,5 @@
 20230602 | [Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230603 | [Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)](https://www.bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230604 | [South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)](https://www.bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
