@@ -38,3 +38,5 @@
 20230603 | [Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)](https://www.bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230604 | [South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)](https://www.bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230605 | [Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii (© Matt Anderson Photography/Getty Images)](https://www.bing.com/th?id=OHR.MauiBeach_EN-US7999098369_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
