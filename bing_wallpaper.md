@@ -46,3 +46,5 @@
 20230607 | [The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)](https://www.bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230608 | [Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230609 | [Humpback whale (© Philip Thurston/Getty Images)](https://www.bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
