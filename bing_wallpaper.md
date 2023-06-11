@@ -50,3 +50,5 @@
 20230609 | [Humpback whale (© Philip Thurston/Getty Images)](https://www.bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230610 | [Hot air balloons in Cappadocia, Türkiye (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230611 | [Porto Cathedral, Portugal (© Reinhard Schmid/Huber/eStock Photo)](https://www.bing.com/th?id=OHR.PortugalDay_EN-US8470533567_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
