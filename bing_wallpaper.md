@@ -64,3 +64,5 @@
 20230616 | [Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)](https://www.bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230617 | [Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)](https://www.bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230618 | ['Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)](https://www.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
