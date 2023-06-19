@@ -66,3 +66,5 @@
 20230617 | [Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)](https://www.bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230618 | ['Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)](https://www.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230619 | [Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/th?id=OHR.TernFather_EN-US0899570111_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
