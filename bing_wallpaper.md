@@ -68,3 +68,5 @@
 20230618 | ['Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)](https://www.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230619 | [Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/th?id=OHR.TernFather_EN-US0899570111_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230620 | [City Hall lit up for Juneteenth in San Francisco, California (© yhelfman/Shutterstock)](https://www.bing.com/th?id=OHR.SanFranHall_EN-US0993956473_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
