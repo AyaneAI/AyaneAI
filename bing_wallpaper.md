@@ -74,3 +74,5 @@
 20230621 | [Bald eagle, Tongass National Forest, Alaska (© Jaynes Gallery/Shutterstock)](https://www.bing.com/th?id=OHR.EagleTree_EN-US8588984234_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230622 | [Stonehenge, Salisbury Plain, Wiltshire, England (© Captain Skyhigh/Getty Images)](https://www.bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230623 | [Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images)](https://www.bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
