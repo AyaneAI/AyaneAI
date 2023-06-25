@@ -78,3 +78,5 @@
 20230623 | [Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images)](https://www.bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230624 | [Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)](https://www.bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230625 | [Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)](https://www.bing.com/th?id=OHR.NhaTrang_EN-US1821500559_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
