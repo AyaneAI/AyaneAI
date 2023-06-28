@@ -84,3 +84,5 @@
 20230626 | [Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)](https://www.bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230627 | [Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterstock)](https://www.bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230628 | [Sedona, Arizona (© Jonathan Ross/Getty Images)](https://www.bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
