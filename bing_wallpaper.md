@@ -92,3 +92,5 @@
 20230630 | [Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://www.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230701 | [Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_EN-US1283973201_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230702 | [Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Reuters)](https://www.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
