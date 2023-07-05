@@ -98,3 +98,5 @@
 20230703 | [Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)](https://www.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230704 | [A coyote in Banff, Alberta, Canada (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230705 | [Empire State Building on the Fourth of July, New York City (© Tetra Images/Getty Images)](https://www.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
