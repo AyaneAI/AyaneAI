@@ -102,3 +102,5 @@
 20230705 | [Empire State Building on the Fourth of July, New York City (© Tetra Images/Getty Images)](https://www.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230706 | [Porto Timoni beach, Corfu, Greece (© nantonov/Getty Images)](https://www.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230707 | [Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images)](https://www.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
