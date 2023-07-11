@@ -110,3 +110,5 @@
 20230709 | [Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas (© Eddie Brady/Getty Images)](https://www.bing.com/th?id=OHR.CooperChapel_EN-US2412561000_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230710 | [Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)](https://www.bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230711 | [Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)](https://www.bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
