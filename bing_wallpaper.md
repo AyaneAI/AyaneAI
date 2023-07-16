@@ -120,3 +120,5 @@
 20230714 | [Zhangye Danxia National Geopark, Gansu province, China (© TONNAJA/Getty Images)](https://www.bing.com/th?id=OHR.ZhangyeGeopark_EN-US3229882052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230715 | [Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](https://www.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230716 | [Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](https://www.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
