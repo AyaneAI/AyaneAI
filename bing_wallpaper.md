@@ -122,3 +122,5 @@
 20230715 | [Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](https://www.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230716 | [Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](https://www.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230717 | [Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](https://www.bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
