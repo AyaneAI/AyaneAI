@@ -126,3 +126,5 @@
 20230717 | [Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](https://www.bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230718 | [Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)](https://www.bing.com/th?id=OHR.CavanCastle_EN-US0493721152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230719 | [Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photography/Shutterstock)](https://www.bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
