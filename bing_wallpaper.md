@@ -132,3 +132,5 @@
 20230720 | [Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)](https://www.bing.com/th?id=OHR.CrescentLake_EN-US1005101872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230721 | [The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)](https://www.bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230722 | [Storseisundet Bridge, Atlantic Ocean Road, Norway (© Morten Falch Sortland/Getty Images)](https://www.bing.com/th?id=OHR.BridgeNorway_EN-US1530199433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
