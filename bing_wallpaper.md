@@ -142,3 +142,5 @@
 20230725 | [Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230726 | [Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.LasLagunas_EN-US2134252350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230727 | [Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.MangrovePark_EN-US2211111720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
