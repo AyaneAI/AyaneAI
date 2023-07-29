@@ -146,3 +146,5 @@
 20230727 | [Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.MangrovePark_EN-US2211111720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230728 | [Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)](https://www.bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230729 | [San Blas Islands, Panama (© bgremler/Shutterstock)](https://www.bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
