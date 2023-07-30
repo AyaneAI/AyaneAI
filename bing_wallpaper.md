@@ -148,3 +148,5 @@
 20230728 | [Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)](https://www.bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230729 | [San Blas Islands, Panama (© bgremler/Shutterstock)](https://www.bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230730 | [Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.TigerIndia_EN-US1594590553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
