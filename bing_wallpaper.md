@@ -152,3 +152,5 @@
 20230730 | [Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.TigerIndia_EN-US1594590553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230731 | [Farmland in the Palouse, Washington (© EJ-J/Getty Images)](https://www.bing.com/th?id=OHR.PalouseHills_EN-US1737990003_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230801 | [Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_EN-US1852534234_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
