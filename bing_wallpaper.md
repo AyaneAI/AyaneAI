@@ -158,3 +158,5 @@
 20230802 | [Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230803 | [Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230804 | [Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)](https://www.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
