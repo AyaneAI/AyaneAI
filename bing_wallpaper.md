@@ -162,3 +162,5 @@
 20230804 | [Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)](https://www.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230805 | [Tintern Abbey, Wales (© matthibcn/Getty Images)](https://www.bing.com/th?id=OHR.GothicRuins_EN-US2341737381_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230806 | [Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)](https://www.bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
