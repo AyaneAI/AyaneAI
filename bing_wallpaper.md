@@ -164,3 +164,5 @@
 20230805 | [Tintern Abbey, Wales (© matthibcn/Getty Images)](https://www.bing.com/th?id=OHR.GothicRuins_EN-US2341737381_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230806 | [Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)](https://www.bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230807 | [Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)](https://www.bing.com/th?id=OHR.NaganoPond_EN-US2600828175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
