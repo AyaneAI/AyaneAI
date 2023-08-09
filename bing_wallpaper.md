@@ -168,3 +168,5 @@
 20230807 | [Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)](https://www.bing.com/th?id=OHR.NaganoPond_EN-US2600828175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230808 | [Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.BodieNC_EN-US2693689463_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230809 | [Highways in Taipei, Taiwan (© Tavarius/Shutterstock)](https://www.bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
