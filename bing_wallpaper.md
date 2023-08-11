@@ -172,3 +172,5 @@
 20230809 | [Highways in Taipei, Taiwan (© Tavarius/Shutterstock)](https://www.bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230810 | [Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)](https://www.bing.com/th?id=OHR.BathurstArt_EN-US3084378813_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230811 | [A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
