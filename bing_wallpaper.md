@@ -180,3 +180,5 @@
 20230813 | [Elephant family in Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](https://www.bing.com/th?id=OHR.ThreeElephants_EN-US3930300492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230814 | [Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230815 | [Tiny gecko on a leaf (© Darren Greenwood/Alamy)](https://www.bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
