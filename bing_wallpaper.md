@@ -182,3 +182,5 @@
 20230814 | [Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230815 | [Tiny gecko on a leaf (© Darren Greenwood/Alamy)](https://www.bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230816 | [Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)](https://www.bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
