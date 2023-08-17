@@ -184,3 +184,5 @@
 20230815 | [Tiny gecko on a leaf (© Darren Greenwood/Alamy)](https://www.bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230816 | [Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)](https://www.bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230817 | [Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)](https://www.bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
