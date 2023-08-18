@@ -186,3 +186,5 @@
 20230816 | [Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)](https://www.bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230817 | [Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)](https://www.bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230818 | [Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)](https://www.bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
