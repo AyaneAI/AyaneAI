@@ -188,3 +188,5 @@
 20230817 | [Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)](https://www.bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230818 | [Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)](https://www.bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230819 | ['Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
