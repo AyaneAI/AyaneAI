@@ -192,3 +192,5 @@
 20230819 | ['Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230820 | [Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)](https://www.bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230821 | [Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.StartPointLight_EN-US0323042936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
