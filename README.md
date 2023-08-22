@@ -54,6 +54,6 @@
 🗻 **Bing Wallpaper**
 
 <!-- BING-WALLPAPER:START -->
-<img src="https://www.bing.com/th?id=OHR.StartPointLight_EN-US0323042936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp">
+<img src="https://www.bing.com/th?id=OHR.EmeraldLakeYukon_EN-US0522450551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp">
 <!-- BING-WALLPAPER:END -->
 
