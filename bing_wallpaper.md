@@ -196,3 +196,5 @@
 20230821 | [Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.StartPointLight_EN-US0323042936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230822 | [Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_EN-US0522450551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230823 | [Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
