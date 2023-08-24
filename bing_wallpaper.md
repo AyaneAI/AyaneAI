@@ -198,3 +198,5 @@
 20230822 | [Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_EN-US0522450551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230823 | [Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230824 | [Skógafoss waterfall, Iceland (© Maridav/Shutterstock)](https://www.bing.com/th?id=OHR.SkogafossWaterfall_EN-US0919190171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
