@@ -200,3 +200,5 @@
 20230823 | [Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230824 | [Skógafoss waterfall, Iceland (© Maridav/Shutterstock)](https://www.bing.com/th?id=OHR.SkogafossWaterfall_EN-US0919190171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230825 | [Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
