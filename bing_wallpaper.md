@@ -204,3 +204,5 @@
 20230825 | [Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230826 | [Lower Yellowstone Falls, Yellowstone National Park, Wyoming (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.YellowstoneFalls_EN-US1964232839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230827 | [Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)](https://www.bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
