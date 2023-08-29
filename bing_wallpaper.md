@@ -208,3 +208,5 @@
 20230827 | [Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)](https://www.bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230828 | [Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)](https://www.bing.com/th?id=OHR.JejuIsland_EN-US2402698261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230829 | [Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock)](https://www.bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
