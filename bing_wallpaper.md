@@ -210,3 +210,5 @@
 20230828 | [Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)](https://www.bing.com/th?id=OHR.JejuIsland_EN-US2402698261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230829 | [Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock)](https://www.bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230830 | [American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/th?id=OHR.TetonBison_EN-US5358590688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
