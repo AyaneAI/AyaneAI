@@ -212,3 +212,5 @@
 20230829 | [Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock)](https://www.bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230830 | [American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/th?id=OHR.TetonBison_EN-US5358590688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230831 | [Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)](https://www.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
