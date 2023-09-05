@@ -222,3 +222,5 @@
 20230903 | [Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)](https://www.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230904 | [Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images)](https://www.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230905 | [Construction workers on scaffolding (© Bits and Splits/Shutterstock)](https://www.bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
