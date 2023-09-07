@@ -226,3 +226,5 @@
 20230905 | [Construction workers on scaffolding (© Bits and Splits/Shutterstock)](https://www.bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230906 | [Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images)](https://www.bing.com/th?id=OHR.MountSegla_EN-US3570750349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230907 | [Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)](https://www.bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
