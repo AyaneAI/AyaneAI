@@ -230,3 +230,5 @@
 20230907 | [Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)](https://www.bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230908 | [Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230909 | [The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)](https://www.bing.com/th?id=OHR.BathCircus_EN-US1560951776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
