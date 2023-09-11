@@ -234,3 +234,5 @@
 20230909 | [The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)](https://www.bing.com/th?id=OHR.BathCircus_EN-US1560951776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230910 | [Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)](https://www.bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230911 | [Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)](https://www.bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
