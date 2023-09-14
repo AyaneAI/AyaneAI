@@ -240,3 +240,5 @@
 20230912 | [Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© ANDREY DENISYUK/Getty Images)](https://www.bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230913 | [North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)](https://www.bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230914 | [Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)](https://www.bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
