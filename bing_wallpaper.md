@@ -248,3 +248,5 @@
 20230916 | [Mission church ruins at Quarai, Salinas Pueblo Missions National Monument, New Mexico (© Thomas Roche/Getty Images)](https://www.bing.com/th?id=OHR.MissionRuins_EN-US2486545022_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230917 | [A beer tent at Oktoberfest in Theresienwiese, Munich, Germany (© Peter Kneffel/picture alliance via Getty Images)](https://www.bing.com/th?id=OHR.OktoberfestWorkers_EN-US5478786117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230918 | [Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures)](https://www.bing.com/th?id=OHR.CubanTody_EN-US3083797062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
