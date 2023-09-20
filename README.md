@@ -54,6 +54,6 @@
 🗻 **Bing Wallpaper**
 
 <!-- BING-WALLPAPER:START -->
-<img src="https://www.bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp">
+<img src="https://www.bing.com/th?id=OHR.SplugenPass_EN-US5807017383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp">
 <!-- BING-WALLPAPER:END -->
 
