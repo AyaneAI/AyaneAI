@@ -254,3 +254,5 @@
 20230919 | [Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Daniel Garrido/Getty Images)](https://www.bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230920 | [Splügen Pass, Graubünden, Switzerland (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.SplugenPass_EN-US5807017383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230921 | [Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)](https://www.bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
