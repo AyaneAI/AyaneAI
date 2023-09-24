@@ -260,3 +260,5 @@
 20230922 | [Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)](https://www.bing.com/th?id=OHR.NobelNorway_EN-US3740897457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230923 | [Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa (© David Silverman/Getty Images)](https://www.bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230924 | [Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
