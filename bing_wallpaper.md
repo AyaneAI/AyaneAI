@@ -262,3 +262,5 @@
 20230923 | [Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa (© David Silverman/Getty Images)](https://www.bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230924 | [Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230925 | [The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images)](https://www.bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
