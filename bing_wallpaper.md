@@ -268,3 +268,5 @@
 20230926 | [Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska (© Andrew Peacock/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GlacierBayOtter_EN-US1818492105_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230927 | [Venice Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)](https://www.bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230928 | [The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](https://www.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
