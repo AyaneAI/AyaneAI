@@ -272,3 +272,5 @@
 20230928 | [The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](https://www.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20230929 | [Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)](https://www.bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20230930 | [Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)](https://www.bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
