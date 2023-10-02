@@ -276,3 +276,5 @@
 20230930 | [Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)](https://www.bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231001 | [Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231002 | [Lake Bled at sunrise, Slovenia (© Rasica/Getty Images)](https://www.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
