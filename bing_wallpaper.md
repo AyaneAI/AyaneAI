@@ -280,3 +280,5 @@
 20231002 | [Lake Bled at sunrise, Slovenia (© Rasica/Getty Images)](https://www.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231003 | [Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)](https://www.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231004 | [Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)](https://www.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
