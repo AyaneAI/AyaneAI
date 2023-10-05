@@ -54,6 +54,6 @@
 🗻 **Bing Wallpaper**
 
 <!-- BING-WALLPAPER:START -->
-<img src="https://www.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp">
+<img src="https://www.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp">
 <!-- BING-WALLPAPER:END -->
 
