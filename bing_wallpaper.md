@@ -286,3 +286,5 @@
 20231005 | [Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](https://www.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231006 | [Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](https://www.bing.com/th?id=OHR.GentooJump_EN-US3267430533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231007 | [Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)](https://www.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
