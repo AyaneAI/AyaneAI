@@ -290,3 +290,5 @@
 20231007 | [Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)](https://www.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231008 | [Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)](https://www.bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231009 | [Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](https://www.bing.com/th?id=OHR.OctoClam_EN-US9467607669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
