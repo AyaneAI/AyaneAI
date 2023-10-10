@@ -292,3 +292,5 @@
 20231008 | [Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)](https://www.bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231009 | [Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](https://www.bing.com/th?id=OHR.OctoClam_EN-US9467607669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231010 | [Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah (© Dan Leeth/Alamy)](https://www.bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
