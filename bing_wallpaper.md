@@ -294,3 +294,5 @@
 20231009 | [Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](https://www.bing.com/th?id=OHR.OctoClam_EN-US9467607669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231010 | [Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah (© Dan Leeth/Alamy)](https://www.bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231011 | [Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
