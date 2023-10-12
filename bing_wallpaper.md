@@ -296,3 +296,5 @@
 20231010 | [Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah (© Dan Leeth/Alamy)](https://www.bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231011 | [Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231012 | [The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
