@@ -300,3 +300,5 @@
 20231012 | [The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231013 | [Old barn and canola field, Palouse region, Idaho (© Terry Eggers/Getty Images)](https://www.bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231014 | [Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)](https://www.bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
