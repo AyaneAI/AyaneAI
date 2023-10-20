@@ -312,3 +312,5 @@
 20231018 | [Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)](https://www.bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231019 | [Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231020 | [Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)](https://www.bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
