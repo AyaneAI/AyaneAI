@@ -314,3 +314,5 @@
 20231019 | [Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231020 | [Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)](https://www.bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231021 | [Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.PygmySloth_EN-US9345280015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
