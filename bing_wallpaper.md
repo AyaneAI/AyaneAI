@@ -318,3 +318,5 @@
 20231021 | [Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.PygmySloth_EN-US9345280015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231022 | [Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)](https://www.bing.com/th?id=OHR.PersepolisRelief_EN-US9435779068_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231023 | [Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)](https://www.bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
