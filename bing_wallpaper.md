@@ -320,3 +320,5 @@
 20231022 | [Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)](https://www.bing.com/th?id=OHR.PersepolisRelief_EN-US9435779068_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231023 | [Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)](https://www.bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231024 | [Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)](https://www.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
