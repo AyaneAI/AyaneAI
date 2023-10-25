@@ -322,3 +322,5 @@
 20231023 | [Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)](https://www.bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231024 | [Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)](https://www.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231025 | [Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](https://www.bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
