@@ -326,3 +326,5 @@
 20231025 | [Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](https://www.bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231026 | [Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231027 | [Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)](https://www.bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
