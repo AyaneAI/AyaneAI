@@ -332,3 +332,5 @@
 20231028 | [Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231029 | [Windmills in Castilla-La Mancha, Spain (© Getty Images)](https://www.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231030 | [Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)](https://www.bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
