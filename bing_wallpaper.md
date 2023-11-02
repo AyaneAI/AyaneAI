@@ -338,3 +338,5 @@
 20231031 | [Common raven sitting on a branch (© WildMedia/Shutterstock)](https://www.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231101 | [Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231102 | [Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)](https://www.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
