@@ -342,3 +342,5 @@
 20231102 | [Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)](https://www.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231103 | [Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231104 | [Pacific sea nettles off the coast of Carmel, California (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
