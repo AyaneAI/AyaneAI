@@ -348,3 +348,5 @@
 20231105 | [American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)](https://www.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231106 | [Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)](https://www.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231107 | [Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)](https://www.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
