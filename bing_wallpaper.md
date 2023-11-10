@@ -354,3 +354,5 @@
 20231108 | [Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)](https://www.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231109 | [West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.ManateeMama_EN-US7376333243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231110 | [Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)](https://www.bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
