@@ -362,3 +362,5 @@
 20231112 | [Sunset at the Washington Monument, Washington, DC (© Joe Daniel Price/Getty Images)](https://www.bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231113 | [Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)](https://www.bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231114 | [Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
