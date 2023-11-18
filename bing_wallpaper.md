@@ -370,3 +370,5 @@
 20231116 | [Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)](https://www.bing.com/th?id=OHR.SarekSweden_EN-US8292531624_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231117 | [View over Athens and the Acropolis, Greece (© Mlenny/Getty Images)](https://www.bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231118 | [Bad River in Copper Falls State Park, Wisconsin (© Big Joe/Getty Images)](https://www.bing.com/th?id=OHR.BadRiver_EN-US1270508214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
