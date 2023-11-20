@@ -374,3 +374,5 @@
 20231118 | [Bad River in Copper Falls State Park, Wisconsin (© Big Joe/Getty Images)](https://www.bing.com/th?id=OHR.BadRiver_EN-US1270508214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231119 | [Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)](https://www.bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231120 | [Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.FrozenBog_EN-US2448711069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
