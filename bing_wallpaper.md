@@ -376,3 +376,5 @@
 20231119 | [Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)](https://www.bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231120 | [Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.FrozenBog_EN-US2448711069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231121 | [Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan Vineyard/Alamy)](https://www.bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
