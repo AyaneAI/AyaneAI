@@ -378,3 +378,5 @@
 20231120 | [Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.FrozenBog_EN-US2448711069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231121 | [Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan Vineyard/Alamy)](https://www.bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231122 | [Gray seal pup, Norfolk, England (© Vince Burton/Minden Pictures)](https://www.bing.com/th?id=OHR.HelloSeal_EN-US2666982656_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
