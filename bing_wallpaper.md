@@ -384,3 +384,5 @@
 20231123 | [Grand Teton National Park, Wyoming (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231124 | [Flint corn (© Cynthia Liang/Shutterstock)](https://www.bing.com/th?id=OHR.FlintCorn_EN-US2819178375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231125 | [Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)](https://www.bing.com/th?id=OHR.HallofMosses_EN-US3167567374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
