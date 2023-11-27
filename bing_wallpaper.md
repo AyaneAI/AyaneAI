@@ -388,3 +388,5 @@
 20231125 | [Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)](https://www.bing.com/th?id=OHR.HallofMosses_EN-US3167567374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231126 | [Toledo, Spain (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.TajoRiver_EN-US3801665254_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231127 | [Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)](https://www.bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
