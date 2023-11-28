@@ -390,3 +390,5 @@
 20231126 | [Toledo, Spain (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.TajoRiver_EN-US3801665254_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231127 | [Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)](https://www.bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231128 | [Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)](https://www.bing.com/th?id=OHR.RioNegro_EN-US4106999854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
