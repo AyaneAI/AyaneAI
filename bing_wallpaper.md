@@ -392,3 +392,5 @@
 20231127 | [Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)](https://www.bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231128 | [Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)](https://www.bing.com/th?id=OHR.RioNegro_EN-US4106999854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231129 | [Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)](https://www.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
