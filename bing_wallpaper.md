@@ -394,3 +394,5 @@
 20231128 | [Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)](https://www.bing.com/th?id=OHR.RioNegro_EN-US4106999854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231129 | [Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)](https://www.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231130 | [Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)](https://www.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
