@@ -398,3 +398,5 @@
 20231130 | [Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)](https://www.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231201 | [The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231202 | [Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
