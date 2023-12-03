@@ -400,3 +400,5 @@
 20231201 | [The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231202 | [Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231203 | [North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)](https://www.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
