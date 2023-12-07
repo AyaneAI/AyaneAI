@@ -408,3 +408,5 @@
 20231205 | [A mother cheetah and her cubs in the Maasai Mara National Reserve, Kenya (© Scott Davis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CheetahDay_EN-US6775219587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231206 | [Neuschwanstein and Hohenschwangau castles, Bavarian Alps, Germany (© Harald Nachtmann/Getty Images)](https://www.bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231207 | [The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)](https://www.bing.com/th?id=OHR.CERNCenter_EN-US9854867489_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
