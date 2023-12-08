@@ -410,3 +410,5 @@
 20231206 | [Neuschwanstein and Hohenschwangau castles, Bavarian Alps, Germany (© Harald Nachtmann/Getty Images)](https://www.bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231207 | [The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)](https://www.bing.com/th?id=OHR.CERNCenter_EN-US9854867489_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231208 | [USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii (© Douglas Peebles Photography/Alamy)](https://www.bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
