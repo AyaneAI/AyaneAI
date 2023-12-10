@@ -414,3 +414,5 @@
 20231208 | [USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii (© Douglas Peebles Photography/Alamy)](https://www.bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231209 | [La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStock Photo)](https://www.bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231210 | [Guanacos in Los Glaciares National Park, Patagonia, Argentina (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
