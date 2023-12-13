@@ -420,3 +420,5 @@
 20231211 | [Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231212 | [Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)](https://www.bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231213 | [Poinsettias (© Yarygin/Getty Images)](https://www.bing.com/th?id=OHR.Poinsettia_EN-US0450019921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
