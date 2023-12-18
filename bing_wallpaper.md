@@ -430,3 +430,5 @@
 20231216 | [SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)](https://www.bing.com/th?id=OHR.SantaPark_EN-US8274997583_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231217 | [Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)](https://www.bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231218 | [Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)](https://www.bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
