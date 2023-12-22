@@ -438,3 +438,5 @@
 20231220 | [Christmas tree in Castle Square, Old Town, Warsaw, Poland (© Panther Media GmbH/Alamy)](https://www.bing.com/th?id=OHR.WarsawChristmas_EN-US8819312496_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231221 | [Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty Images)](https://www.bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231222 | [Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany (© Reinhard Schmid/Huber/eStock Photo)](https://www.bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
