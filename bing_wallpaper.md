@@ -440,3 +440,5 @@
 20231221 | [Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty Images)](https://www.bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231222 | [Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany (© Reinhard Schmid/Huber/eStock Photo)](https://www.bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231223 | [Ljubljana, Slovenia (© kasto80/Getty images)](https://www.bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
