@@ -446,3 +446,5 @@
 20231224 | [Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures)](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231225 | [Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-US9431079565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231226 | [Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)](https://www.bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
