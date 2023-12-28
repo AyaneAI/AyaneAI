@@ -450,3 +450,5 @@
 20231226 | [Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)](https://www.bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231227 | [Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231228 | [Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
