@@ -454,3 +454,5 @@
 20231228 | [Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231229 | [Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20231230 | [Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
