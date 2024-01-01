@@ -458,3 +458,5 @@
 20231230 | [Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20231231 | [Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)](https://www.bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240101 | [Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
