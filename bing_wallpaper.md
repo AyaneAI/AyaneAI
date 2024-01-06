@@ -468,3 +468,5 @@
 20240104 | [Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240105 | [Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240106 | [International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)](https://www.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
