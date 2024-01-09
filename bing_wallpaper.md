@@ -474,3 +474,5 @@
 20240107 | [Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)](https://www.bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240108 | [Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240109 | [Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)](https://www.bing.com/th?id=OHR.BerninaPass_EN-US8788589226_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
