@@ -478,3 +478,5 @@
 20240109 | [Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)](https://www.bing.com/th?id=OHR.BerninaPass_EN-US8788589226_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240110 | [Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)](https://www.bing.com/th?id=OHR.BalloonDay_EN-US9019911805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240111 | [Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
