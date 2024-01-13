@@ -482,3 +482,5 @@
 20240111 | [Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240112 | [Eurasian lynx in the snow (© Jan Stria/Shutterstock)](https://www.bing.com/th?id=OHR.LynxSnow_EN-US9261675170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240113 | [Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
