@@ -484,3 +484,5 @@
 20240112 | [Eurasian lynx in the snow (© Jan Stria/Shutterstock)](https://www.bing.com/th?id=OHR.LynxSnow_EN-US9261675170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240113 | [Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240114 | [Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)](https://www.bing.com/th?id=OHR.HanaHighway_EN-US0637770298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
