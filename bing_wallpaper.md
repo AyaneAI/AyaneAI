@@ -486,3 +486,5 @@
 20240113 | [Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)](https://www.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240114 | [Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)](https://www.bing.com/th?id=OHR.HanaHighway_EN-US0637770298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240115 | [Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
