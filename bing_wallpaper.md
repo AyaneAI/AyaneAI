@@ -490,3 +490,5 @@
 20240115 | [Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240116 | [Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)](https://www.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240117 | [Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)](https://www.bing.com/th?id=OHR.LakeLouise_EN-US1133378386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
