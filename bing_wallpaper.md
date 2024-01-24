@@ -504,3 +504,5 @@
 20240122 | [Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)](https://www.bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240123 | [Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240124 | [Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.MaldivesAtolls_EN-US2498947967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
