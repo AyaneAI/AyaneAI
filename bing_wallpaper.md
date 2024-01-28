@@ -512,3 +512,5 @@
 20240126 | [Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)](https://www.bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240127 | [Northern hawk-owl (© Remo Savisaar/Alamy)](https://www.bing.com/th?id=OHR.HawkOwl_EN-US6646901652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240128 | [Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)](https://www.bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
