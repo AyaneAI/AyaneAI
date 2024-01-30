@@ -516,3 +516,5 @@
 20240128 | [Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)](https://www.bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240129 | [Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)](https://www.bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240130 | [Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)](https://www.bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
