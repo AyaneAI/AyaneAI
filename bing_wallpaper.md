@@ -520,3 +520,5 @@
 20240130 | [Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)](https://www.bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240131 | [Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240201 | [Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
