@@ -528,3 +528,5 @@
 20240203 | [Marmot peeking out of its burrow (© Scacciamosche/Getty Images)](https://www.bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240204 | [Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)](https://www.bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240205 | [Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)](https://www.bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
