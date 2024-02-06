@@ -530,3 +530,5 @@
 20240204 | [Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)](https://www.bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240205 | [Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)](https://www.bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240206 | [Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)](https://www.bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
