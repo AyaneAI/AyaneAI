@@ -534,3 +534,5 @@
 20240206 | [Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)](https://www.bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240207 | [Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LakeTahoeRock_EN-US8513392756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240208 | [St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)](https://www.bing.com/th?id=OHR.StJamesPool_EN-US8700038796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
