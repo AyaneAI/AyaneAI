@@ -538,3 +538,5 @@
 20240208 | [St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)](https://www.bing.com/th?id=OHR.StJamesPool_EN-US8700038796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240209 | [Mount Hood, Oregon (© Inigo Cia/Getty Images)](https://www.bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240210 | [Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)](https://www.bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
