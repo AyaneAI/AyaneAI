@@ -542,3 +542,5 @@
 20240210 | [Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)](https://www.bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240211 | [Artists performing the dragon dance for Chinese New Year, Luzhou, China (© Liu Guoxing/VCG via Getty Images)](https://www.bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240212 | [Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
