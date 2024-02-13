@@ -544,3 +544,5 @@
 20240211 | [Artists performing the dragon dance for Chinese New Year, Luzhou, China (© Liu Guoxing/VCG via Getty Images)](https://www.bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240212 | [Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240213 | [Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
