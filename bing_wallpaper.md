@@ -546,3 +546,5 @@
 20240212 | [Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240213 | [Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240214 | [Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](https://www.bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
