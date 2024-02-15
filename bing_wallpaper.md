@@ -548,3 +548,5 @@
 20240213 | [Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240214 | [Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](https://www.bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240215 | [Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)](https://www.bing.com/th?id=OHR.BowingCrane_EN-US7534977512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
