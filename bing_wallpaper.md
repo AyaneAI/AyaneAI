@@ -552,3 +552,5 @@
 20240215 | [Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)](https://www.bing.com/th?id=OHR.BowingCrane_EN-US7534977512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240216 | [Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)](https://www.bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240217 | [Female pyrrhuloxia perched on cactus plant, Texas (© outtakes/Getty Images)](https://www.bing.com/th?id=OHR.BackyardBird_EN-US8255123787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
