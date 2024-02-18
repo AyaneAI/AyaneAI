@@ -554,3 +554,5 @@
 20240216 | [Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)](https://www.bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240217 | [Female pyrrhuloxia perched on cactus plant, Texas (© outtakes/Getty Images)](https://www.bing.com/th?id=OHR.BackyardBird_EN-US8255123787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240218 | [The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York (© STAN HONDA/AFP via Getty Images)](https://www.bing.com/th?id=OHR.AileyUptown_EN-US7790191198_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
