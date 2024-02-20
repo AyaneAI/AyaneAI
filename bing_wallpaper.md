@@ -558,3 +558,5 @@
 20240218 | [The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York (© STAN HONDA/AFP via Getty Images)](https://www.bing.com/th?id=OHR.AileyUptown_EN-US7790191198_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240219 | [Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)](https://www.bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240220 | [Lincoln Memorial, Washington, DC (© Steve Whiston/Fallen Log Photography/Getty Images)](https://www.bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
