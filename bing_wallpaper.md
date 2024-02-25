@@ -568,3 +568,5 @@
 20240223 | [Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](https://www.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240224 | [Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240225 | [Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
