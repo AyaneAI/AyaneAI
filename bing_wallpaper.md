@@ -570,3 +570,5 @@
 20240224 | [Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240225 | [Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240226 | ['United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)](https://www.bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
