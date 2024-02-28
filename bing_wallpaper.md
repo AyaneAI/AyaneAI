@@ -574,3 +574,5 @@
 20240226 | ['United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)](https://www.bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240227 | [Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)](https://www.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240228 | [Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
