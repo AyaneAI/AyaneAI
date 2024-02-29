@@ -576,3 +576,5 @@
 20240227 | [Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)](https://www.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240228 | [Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240229 | [Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
