@@ -578,3 +578,5 @@
 20240228 | [Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](https://www.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240229 | [Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240301 | [Eurasian red squirrel (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
