@@ -590,3 +590,5 @@
 20240305 | [Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)](https://www.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240306 | [Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)](https://www.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240307 | [Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
