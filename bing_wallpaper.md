@@ -602,3 +602,5 @@
 20240311 | [San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)](https://www.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240312 | [A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)](https://www.bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240313 | [Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BryceSnow_EN-US1471442313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
