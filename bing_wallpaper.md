@@ -606,3 +606,5 @@
 20240313 | [Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BryceSnow_EN-US1471442313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240314 | [Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240315 | [Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)](https://www.bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
