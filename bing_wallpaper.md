@@ -614,3 +614,5 @@
 20240317 | [Giant panda eating bamboo, Chengdu, China (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BambooPanda_EN-US2038899729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240318 | [St. Finian's Bay, County Kerry, Ireland (© Atlantide Phototravel/Getty Images)](https://www.bing.com/th?id=OHR.StFiniansBay_EN-US2242323244_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240319 | [Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)](https://www.bing.com/th?id=OHR.ElephantRock_EN-US2340789308_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
