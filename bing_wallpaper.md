@@ -618,3 +618,5 @@
 20240319 | [Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)](https://www.bing.com/th?id=OHR.ElephantRock_EN-US2340789308_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240320 | [Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.SpringFrog_EN-US7109699294_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240321 | [The Jefferson Memorial during the Cherry Blossom Festival, Washington, DC (© f11photo/Shutterstock)](https://www.bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
