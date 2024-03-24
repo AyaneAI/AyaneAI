@@ -624,3 +624,5 @@
 20240322 | [Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240323 | [Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)](https://www.bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240324 | [Large anvil clouds above the Amazon in Brazil (© NASA)](https://www.bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
