@@ -628,3 +628,5 @@
 20240324 | [Large anvil clouds above the Amazon in Brazil (© NASA)](https://www.bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240325 | [Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)](https://www.bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240326 | [Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)](https://www.bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
