@@ -630,3 +630,5 @@
 20240325 | [Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)](https://www.bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240326 | [Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)](https://www.bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240327 | [Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](https://www.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
