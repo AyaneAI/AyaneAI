@@ -634,3 +634,5 @@
 20240327 | [Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](https://www.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240328 | [Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)](https://www.bing.com/th?id=OHR.TeatroColon_EN-US2518867279_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240329 | [Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
