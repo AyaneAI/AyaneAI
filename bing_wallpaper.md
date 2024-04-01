@@ -640,3 +640,5 @@
 20240330 | [South Stack Lighthouse at sunset, Holy Island, Wales (© mariotlr/Getty Images)](https://www.bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240331 | [Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240401 | [Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)](https://www.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
