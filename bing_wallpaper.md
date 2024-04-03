@@ -644,3 +644,5 @@
 20240401 | [Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)](https://www.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240402 | ['Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240403 | [Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)](https://www.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
