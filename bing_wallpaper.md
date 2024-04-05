@@ -648,3 +648,5 @@
 20240403 | [Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)](https://www.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240404 | [A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan (© Emad aljumah/Getty Images)](https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240405 | [Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)](https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
