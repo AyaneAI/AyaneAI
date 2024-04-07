@@ -652,3 +652,5 @@
 20240405 | [Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)](https://www.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240406 | [The Bahamas photographed from the International Space Station (© NASA)](https://www.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240407 | [Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](https://www.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
