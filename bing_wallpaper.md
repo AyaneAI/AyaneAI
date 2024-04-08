@@ -654,3 +654,5 @@
 20240406 | [The Bahamas photographed from the International Space Station (© NASA)](https://www.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240407 | [Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](https://www.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240408 | [North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)](https://www.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
