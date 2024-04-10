@@ -658,3 +658,5 @@
 20240408 | [North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)](https://www.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240409 | [Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)](https://www.bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240410 | [Tulip fields in spring, Skagit Valley, Washington (© Claudia Cooper/Getty Images)](https://www.bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
