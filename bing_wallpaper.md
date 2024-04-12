@@ -662,3 +662,5 @@
 20240410 | [Tulip fields in spring, Skagit Valley, Washington (© Claudia Cooper/Getty Images)](https://www.bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240411 | [Burrowing owl chicks near a burrow, Wyoming (© Danita Delimont/Getty Images)](https://www.bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240412 | [Aerial view of Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
