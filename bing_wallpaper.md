@@ -668,3 +668,5 @@
 20240413 | [Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240414 | [Apple trees in spring, Germany (© Smileus/Getty Images)](https://www.bing.com/th?id=OHR.SpringApple_EN-US3148648329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240415 | [Sunset on Bowling Ball Beach, Mendocino County, California (© Melo Qiao/Getty Images)](https://www.bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
