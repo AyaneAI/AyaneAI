@@ -672,3 +672,5 @@
 20240415 | [Sunset on Bowling Ball Beach, Mendocino County, California (© Melo Qiao/Getty Images)](https://www.bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240416 | [The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240417 | [Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images)](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
