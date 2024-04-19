@@ -28,11 +28,11 @@
 📚 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [开源封面图生成器工具 CoverView 的中文优化修改版](https://www.tjsky.net/tutorial/919?pk_campaign=feed&pk_kwd=%25e5%25bc%2580%25e6%25ba%2590%25e5%25b0%2581%25e9%259d%25a2%25e5%259b%25be%25e7%2594%259f%25e6%2588%2590%25e5%2599%25a8%25e5%25b7%25a5%25e5%2585%25b7-coverview-%25e7%259a%2584%25e4%25b8%25ad%25e6%2596%2587%25e4%25bc%2598%25e5%258c%2596%25e4%25bf%25ae%25e6%2594%25b9%25e7%2589%2588)
 - [记一次手机遗失后的处理过程](https://www.tjsky.net/natter/915?pk_campaign=feed&pk_kwd=%25e8%25ae%25b0%25e4%25b8%2580%25e6%25ac%25a1%25e6%2589%258b%25e6%259c%25ba%25e9%2581%2597%25e5%25a4%25b1%25e5%2590%258e%25e7%259a%2584%25e5%25a4%2584%25e7%2590%2586%25e8%25bf%2587%25e7%25a8%258b)
 - [【资讯】Telegram PC 桌面版高危漏洞，无需用户交互即可触发（ 4.16.8 版已修复）](https://www.tjsky.net/news/911?pk_campaign=feed&pk_kwd=https-www-tjsky-net-news-911)
 - [谷歌家AI Gemini 要开始收费了 – 看起来比OpenAI家的便宜呢](https://www.tjsky.net/ai/906?pk_campaign=feed&pk_kwd=https-www-tjsky-net-ai-906)
 - [感觉我有硬盘杀手的被动技能，电脑硬盘又双叒叕坏了](https://www.tjsky.net/natter/903?pk_campaign=feed&pk_kwd=https-www-tjsky-net-natter-903)
-- [本周槽点01](https://www.tjsky.net/natter/901?pk_campaign=feed&pk_kwd=%25e6%259c%25ac%25e5%2591%25a8%25e6%25a7%25bd%25e7%2582%25b901)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡️ **Activities**
