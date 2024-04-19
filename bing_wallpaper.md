@@ -676,3 +676,5 @@
 20240417 | [Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images)](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240418 | [American black bear cub in spring, Shenandoah National Park, Virginia (© Scott Suriano/Getty Images)](https://www.bing.com/th?id=OHR.SpringCub_EN-US3818124104_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240419 | [Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)](https://www.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
