@@ -680,3 +680,5 @@
 20240419 | [Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)](https://www.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240420 | [The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://www.bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240421 | [Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)](https://www.bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
