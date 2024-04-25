@@ -688,3 +688,5 @@
 20240423 | [Green sea turtle, San Diego, California (© Ralph Pace/Minden Pictures)](https://www.bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240424 | [Library of Trinity College Dublin, Ireland (© Vincent Isore/Getty Images)](https://www.bing.com/th?id=OHR.TrinityDublin_EN-US9065489677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240425 | [White trilliums blooming in Ontario, Canada (© Jun Zhang/Getty Images)](https://www.bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
