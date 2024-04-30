@@ -698,3 +698,5 @@
 20240428 | [Leucistic Anna's hummingbird in the Australian Garden, UC Santa Cruz Arboretum, California (© yhelfman/Getty Images)](https://www.bing.com/th?id=OHR.LeucisticHummingbird_EN-US5796079642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240429 | [El Capitan at sunrise in Guadalupe Mountains National Park, Texas (© Adam Mowery/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240430 | [Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)](https://www.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
