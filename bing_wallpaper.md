@@ -700,3 +700,5 @@
 20240429 | [El Capitan at sunrise in Guadalupe Mountains National Park, Texas (© Adam Mowery/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240430 | [Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)](https://www.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240501 | [Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)](https://www.bing.com/th?id=OHR.CheetahRain_EN-US6179670004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
