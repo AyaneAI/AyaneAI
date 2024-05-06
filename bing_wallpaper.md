@@ -710,3 +710,5 @@
 20240504 | [Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)](https://www.bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240505 | [Ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)](https://www.bing.com/th?id=OHR.JediMonastery_EN-US9398447907_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240506 | [Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)](https://www.bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
