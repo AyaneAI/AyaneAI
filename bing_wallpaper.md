@@ -724,3 +724,5 @@
 20240511 | [Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240512 | [An indigo bunting perched on a branch, Texas (© Jeff R Clow/Getty Images)](https://www.bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240513 | [Guanaco mother and newborn baby in grassland, La Pampa Province, Argentina (© Gabriel Rojo/Minden Pictures)](https://www.bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
