@@ -732,3 +732,5 @@
 20240515 | [Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images)](https://www.bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240516 | [The Blue City of Jodhpur, India (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240517 | ['Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China (© Feng Li/Getty Images News)](https://www.bing.com/th?id=OHR.DayOfLight_EN-US1723401316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
