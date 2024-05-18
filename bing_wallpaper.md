@@ -734,3 +734,5 @@
 20240516 | [The Blue City of Jodhpur, India (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240517 | ['Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China (© Feng Li/Getty Images News)](https://www.bing.com/th?id=OHR.DayOfLight_EN-US1723401316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240518 | [A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
