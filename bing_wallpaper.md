@@ -740,3 +740,5 @@
 20240519 | [Blue whale skeleton in the Natural History Museum, London, England (© Bailey-Cooper Photography/Alamy)](https://www.bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240520 | [Village of Vernazza, Cinque Terre, Liguria, Italy (© Roberto Moiola/Sysaworld/Getty Images)](https://www.bing.com/th?id=OHR.VernazzaItaly_EN-US2643430613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240521 | [Bee tending a honeycomb (© Simun Ascic/Alamy)](https://www.bing.com/th?id=OHR.HoneycombBee_EN-US2941694554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
