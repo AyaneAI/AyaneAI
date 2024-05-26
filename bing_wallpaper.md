@@ -750,3 +750,5 @@
 20240524 | [Indian star tortoise, Sri Lanka (© Robin Chittenden/Minden Pictures)](https://www.bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240525 | [Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)](https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240526 | [Aït Benhaddou, Morocco (© Grant Faint/Getty Images)](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
