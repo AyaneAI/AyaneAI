@@ -752,3 +752,5 @@
 20240525 | [Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)](https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240526 | [Aït Benhaddou, Morocco (© Grant Faint/Getty Images)](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240527 | [Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
