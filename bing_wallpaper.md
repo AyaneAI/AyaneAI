@@ -754,3 +754,5 @@
 20240526 | [Aït Benhaddou, Morocco (© Grant Faint/Getty Images)](https://www.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240527 | [Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240528 | [Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)](https://www.bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
