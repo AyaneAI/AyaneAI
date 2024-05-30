@@ -758,3 +758,5 @@
 20240528 | [Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)](https://www.bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240529 | [Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)](https://www.bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240530 | [Eurasian otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)](https://www.bing.com/th?id=OHR.MullOtter_EN-US5451978021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
