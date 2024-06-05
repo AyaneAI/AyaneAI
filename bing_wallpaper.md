@@ -770,3 +770,5 @@
 20240603 | [Flowers blooming in a garden, Alaska (© jet 67/Shutterstock)](https://www.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240604 | [Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)](https://www.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240605 | [Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)](https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
