@@ -774,3 +774,5 @@
 20240605 | [Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)](https://www.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240606 | [Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)](https://www.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240607 | [Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
