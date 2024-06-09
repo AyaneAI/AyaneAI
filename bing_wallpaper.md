@@ -778,3 +778,5 @@
 20240607 | [Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)](https://www.bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240608 | [Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240609 | [Confluence of Easter Creek and Killik River, Gates of the Arctic National Park, Alaska (© Patrick J. Endres/Getty Images)](https://www.bing.com/th?id=OHR.KillikRiverAlaska_EN-US6860539516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
