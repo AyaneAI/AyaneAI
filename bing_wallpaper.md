@@ -786,3 +786,5 @@
 20240611 | [Osaka at night, Japan (© wichianduangsri/Getty Images)](https://www.bing.com/th?id=OHR.OsakaNight_EN-US7022302235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240612 | [Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240613 | [Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)](https://www.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
