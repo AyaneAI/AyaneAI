@@ -794,3 +794,5 @@
 20240615 | [Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)](https://www.bing.com/th?id=OHR.FlagsDC_EN-US9363778856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240616 | [Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](https://www.bing.com/th?id=OHR.NazareWave_EN-US9510827848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240617 | [Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)](https://www.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
