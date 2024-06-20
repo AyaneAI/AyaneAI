@@ -800,3 +800,5 @@
 20240618 | [Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](https://www.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240619 | [Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](https://www.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240620 | [Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)](https://www.bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
