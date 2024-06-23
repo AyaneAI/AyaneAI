@@ -806,3 +806,5 @@
 20240621 | [Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)](https://www.bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240622 | [Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240623 | [Amazon rainforest, Brazil (© Claus Meyer/plainpicture)](https://www.bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
