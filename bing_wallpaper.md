@@ -812,3 +812,5 @@
 20240624 | [Aerial view of an intersection in Dhaka, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240625 | [Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.FloresIsland_EN-US1042279828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240626 | [Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.FireWave_EN-US1154414797_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
