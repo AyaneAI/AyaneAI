@@ -818,3 +818,5 @@
 20240627 | [Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240628 | [Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)](https://www.bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240629 | [Pride flags at Christopher Park, Stonewall National Monument, New York City (© Noam Galai/Getty Images)](https://www.bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
