@@ -822,3 +822,5 @@
 20240629 | [Pride flags at Christopher Park, Stonewall National Monument, New York City (© Noam Galai/Getty Images)](https://www.bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240630 | [Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images)](https://www.bing.com/th?id=OHR.TourCorsica_EN-US3437831281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240701 | [Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)](https://www.bing.com/th?id=OHR.UbudBali_EN-US3541248173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
