@@ -826,3 +826,5 @@
 20240701 | [Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)](https://www.bing.com/th?id=OHR.UbudBali_EN-US3541248173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240702 | [Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)](https://www.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240703 | [The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
