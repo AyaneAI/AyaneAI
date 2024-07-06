@@ -832,3 +832,5 @@
 20240704 | [Meerkat family (© anetapics/Shutterstock)](https://www.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240705 | [Fireworks over the Hudson River on the Fourth of July, New York (© New York on Air/Shutterstock)](https://www.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240706 | [Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)](https://www.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
