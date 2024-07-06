@@ -28,11 +28,11 @@
 📚 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [知名静态资源CDN加速服务 Staticfile.org（与七牛云合作）发生供应链投毒，请尽快更换。](https://www.tjsky.net/news/992?pk_campaign=feed&pk_kwd=%25e7%259f%25a5%25e5%2590%258d%25e9%259d%2599%25e6%2580%2581%25e8%25b5%2584%25e6%25ba%2590cdn%25e5%258a%25a0%25e9%2580%259f%25e6%259c%258d%25e5%258a%25a1-staticfile-org%25ef%25bc%2588%25e4%25b8%258e%25e4%25b8%2583%25e7%2589%259b%25e4%25ba%2591%25e5%2590%2588%25e4%25bd%259c%25ef%25bc%2589%25e5%258f%2591%25e7%2594%259f)
 - [RTranslator –  一款 Android 开源离线本地实时同传翻译 APP](https://www.tjsky.net/ai/985?pk_campaign=feed&pk_kwd=https-www-tjsky-net-ai-985)
 - [在 GitHub 中隐藏自己的邮箱地址](https://www.tjsky.net/tutorial/974?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-974)
 - [解决 Vercel 注册时提示 Your account requires further verification.](https://www.tjsky.net/tutorial/971?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-971)
 - [使用 Memos 搭建轻博客（朋友圈）](https://www.tjsky.net/tutorial/950?pk_campaign=feed&pk_kwd=https-www-tjsky-net-p950)
-- [最近车被对方追尾了定损2万多，出交通事故时作为无责任一方要怎么做](https://www.tjsky.net/natter/942?pk_campaign=feed&pk_kwd=%25e6%259c%2580%25e8%25bf%2591%25e8%25bd%25a6%25e8%25a2%25ab%25e5%25af%25b9%25e6%2596%25b9%25e8%25bf%25bd%25e5%25b0%25be%25e4%25ba%2586%25e5%25ae%259a%25e6%258d%259f2%25e4%25b8%2587%25e5%25a4%259a%25ef%25bc%258c%25e5%2587%25ba%25e4%25ba%25a4%25e9%2580%259a%25e4%25ba%258b%25e6%2595%2585%25e6%2597%25b6%25e8%25a6%2581%25e6%2580%258e)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡️ **Activities**
