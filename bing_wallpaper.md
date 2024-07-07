@@ -834,3 +834,5 @@
 20240705 | [Fireworks over the Hudson River on the Fourth of July, New York (© New York on Air/Shutterstock)](https://www.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240706 | [Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)](https://www.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240707 | [Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)](https://www.bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
