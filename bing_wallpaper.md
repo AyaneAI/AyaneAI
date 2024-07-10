@@ -840,3 +840,5 @@
 20240708 | [Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)](https://www.bing.com/th?id=OHR.YenBaiTerraces_EN-US4542290370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240709 | [Blueberries growing in the wild (© Baac3nes/Getty Images)](https://www.bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240710 | [Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)](https://www.bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
