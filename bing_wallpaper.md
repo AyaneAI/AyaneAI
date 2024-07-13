@@ -846,3 +846,5 @@
 20240711 | [Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240712 | [Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.GangiSicily_EN-US5325083744_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240713 | [Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
