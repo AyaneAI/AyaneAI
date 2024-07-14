@@ -848,3 +848,5 @@
 20240712 | [Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.GangiSicily_EN-US5325083744_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240713 | [Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240714 | [Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)](https://www.bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
