@@ -850,3 +850,5 @@
 20240713 | [Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)](https://www.bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240714 | [Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)](https://www.bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240715 | [Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)](https://www.bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
