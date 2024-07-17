@@ -854,3 +854,5 @@
 20240715 | [Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)](https://www.bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240716 | [Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)](https://www.bing.com/th?id=OHR.TateishiPark_EN-US8384642632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240717 | [The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://www.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
