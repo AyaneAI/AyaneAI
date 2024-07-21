@@ -862,3 +862,5 @@
 20240719 | [Coral reef in the Indian Ocean, overseas department of Mayotte, France (© Gabriel Barathieu/Minden Pictures)](https://www.bing.com/th?id=OHR.MayotteCoral_EN-US4102346691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240720 | [A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)](https://www.bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240721 | [The moon (© Victor Blum/Getty Images)](https://www.bing.com/th?id=OHR.MineralMoon_EN-US8936600169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
