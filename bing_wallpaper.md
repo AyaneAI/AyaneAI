@@ -866,3 +866,5 @@
 20240721 | [The moon (© Victor Blum/Getty Images)](https://www.bing.com/th?id=OHR.MineralMoon_EN-US8936600169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240722 | [Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)](https://www.bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240723 | [Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.HammockCamping_EN-US9298465355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
