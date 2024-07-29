@@ -878,3 +878,5 @@
 20240727 | [Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.PontNeuf_EN-US5735328254_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240728 | [Vineyards in the Mosel Valley, Rhineland-Palatinate, Germany (© Jorg Greuel/Getty Images)](https://www.bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240729 | [Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)](https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
