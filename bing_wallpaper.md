@@ -882,3 +882,5 @@
 20240729 | [Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)](https://www.bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240730 | [Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)](https://www.bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240731 | [San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
