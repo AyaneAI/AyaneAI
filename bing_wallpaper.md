@@ -886,3 +886,5 @@
 20240731 | [San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)](https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240801 | [Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240802 | [Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
