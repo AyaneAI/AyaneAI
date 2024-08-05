@@ -892,3 +892,5 @@
 20240803 | [Trunk Bay, St. John, Virgin Islands National Park (© cdwheatley/Getty Images)](https://www.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240804 | [Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)](https://www.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240805 | [Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)](https://www.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
