@@ -898,3 +898,5 @@
 20240806 | [Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240807 | [Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)](https://www.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240808 | [St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
