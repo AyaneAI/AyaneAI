@@ -904,3 +904,5 @@
 20240809 | [Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)](https://www.bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240810 | [Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)](https://www.bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240811 | [Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
