@@ -910,3 +910,5 @@
 20240812 | [Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)](https://www.bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240813 | [African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)](https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240814 | [Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)](https://www.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
