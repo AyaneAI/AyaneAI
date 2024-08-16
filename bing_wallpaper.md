@@ -914,3 +914,5 @@
 20240814 | [Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)](https://www.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240815 | [Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240816 | [Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)](https://www.bing.com/th?id=OHR.HangCave_EN-US9374263509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
