@@ -918,3 +918,5 @@
 20240816 | [Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)](https://www.bing.com/th?id=OHR.HangCave_EN-US9374263509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240817 | [Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)](https://www.bing.com/th?id=OHR.JapanRollerCoaster_EN-US9463845683_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240818 | [Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
