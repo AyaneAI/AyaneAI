@@ -922,3 +922,5 @@
 20240818 | [Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240819 | [Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240820 | [Museum of Flight, Seattle, Washington (© George Rose/Getty Images)](https://www.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
