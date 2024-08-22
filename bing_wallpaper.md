@@ -926,3 +926,5 @@
 20240820 | [Museum of Flight, Seattle, Washington (© George Rose/Getty Images)](https://www.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240821 | [Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240822 | [Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
