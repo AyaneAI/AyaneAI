@@ -932,3 +932,5 @@
 20240823 | [Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240824 | [Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240825 | [Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
