@@ -936,3 +936,5 @@
 20240825 | [Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)](https://www.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240826 | [Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240827 | [Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
