@@ -944,3 +944,5 @@
 20240829 | [Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)](https://www.bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240830 | [Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)](https://www.bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240831 | [A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
