@@ -950,3 +950,5 @@
 20240901 | [Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240902 | [River Thames, London, England (© Puthipong Worasaran/Getty Images)](https://www.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240903 | ['Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)](https://www.bing.com/th?id=OHR.KansasMural_EN-US9504361321_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
