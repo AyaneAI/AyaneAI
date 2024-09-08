@@ -960,3 +960,5 @@
 20240906 | [Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)](https://www.bing.com/th?id=OHR.TIFF2024_EN-US9586964456_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240907 | [Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)](https://www.bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240908 | [Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)](https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
