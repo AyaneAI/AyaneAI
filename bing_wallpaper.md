@@ -968,3 +968,5 @@
 20240910 | [Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240911 | [Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240912 | [National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)](https://www.bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
