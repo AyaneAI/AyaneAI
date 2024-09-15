@@ -28,11 +28,11 @@
 📚 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [中华人民共和国住房和城乡建设部 GB / T 国标规范标准合集](https://www.tjsky.net/news/1020?pk_campaign=feed&pk_kwd=https-www-tjsky-net-news-1020)
 - [Chrome 如何继续使用 uBlock Origin 等 Manifest V2 扩展](https://www.tjsky.net/tutorial/1009?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1009)
 - [解决绿色便携版 Chrome 打印预览失败问题](https://www.tjsky.net/tutorial/996?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-996)
 - [RTranslator –  一款 Android 开源离线本地实时同传翻译 APP](https://www.tjsky.net/ai/985?pk_campaign=feed&pk_kwd=https-www-tjsky-net-ai-985)
 - [在 GitHub 中隐藏自己的邮箱地址](https://www.tjsky.net/tutorial/974?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-974)
-- [解决 Vercel 注册时提示 Your account requires further verification.](https://www.tjsky.net/tutorial/971?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-971)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡️ **Activities**
