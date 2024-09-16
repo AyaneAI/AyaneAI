@@ -976,3 +976,5 @@
 20240914 | [Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)](https://www.bing.com/th?id=OHR.PointReyes_EN-US4731803211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240915 | [Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)](https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-US4872610843_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240916 | [Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.BalboaPark_EN-US5050015037_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
