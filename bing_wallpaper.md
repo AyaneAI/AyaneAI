@@ -980,3 +980,5 @@
 20240916 | [Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.BalboaPark_EN-US5050015037_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240917 | [Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)](https://www.bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240918 | [Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)](https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
