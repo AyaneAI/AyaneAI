@@ -982,3 +982,5 @@
 20240917 | [Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)](https://www.bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240918 | [Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)](https://www.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240919 | [Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)](https://www.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
