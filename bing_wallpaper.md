@@ -992,3 +992,5 @@
 20240922 | [Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)](https://www.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240923 | [Buttermere, Lake District National Park, England (© Alan Novelli/Alamy)](https://www.bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240924 | [Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](https://www.bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
