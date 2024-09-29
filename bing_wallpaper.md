@@ -1002,3 +1002,5 @@
 20240927 | [Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240928 | [Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20240929 | [Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
