@@ -1006,3 +1006,5 @@
 20240929 | [Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20240930 | [West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241001 | [Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)](https://www.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
