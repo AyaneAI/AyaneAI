@@ -1008,3 +1008,5 @@
 20240930 | [West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241001 | [Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)](https://www.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241002 | [Last light on Half Dome, Yosemite National Park, California (© Adam Burton/Alamy)](https://www.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
