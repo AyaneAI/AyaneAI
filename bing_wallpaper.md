@@ -1014,3 +1014,5 @@
 20241003 | [Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska (© Design Pics/Danita Delimont)](https://www.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241004 | [Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241005 | [Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](https://www.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
