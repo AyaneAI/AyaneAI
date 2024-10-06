@@ -28,11 +28,11 @@
 📚 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [谁这么无聊啊，假期还折腾我的站](https://www.tjsky.net/natter/1029?pk_campaign=feed&pk_kwd=%25e8%25b0%2581%25e8%25bf%2599%25e4%25b9%2588%25e6%2597%25a0%25e8%2581%258a%25e5%2595%258a%25ef%25bc%258c%25e5%2581%2587%25e6%259c%259f%25e6%2594%25b9%25e6%258a%2598%25e8%2585%25be%25e5%2588%25ab%25e4%25ba%25ba%25e7%259a%2584%25e7%25ab%2599)
 - [近期大量个人博客被自动化繁体镜像搬运](https://www.tjsky.net/tutorial/1026?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1026)
 - [中华人民共和国住房和城乡建设部 GB / T 国标规范标准合集](https://www.tjsky.net/news/1020?pk_campaign=feed&pk_kwd=https-www-tjsky-net-news-1020)
 - [Chrome 如何继续使用 uBlock Origin 等 Manifest V2 扩展](https://www.tjsky.net/tutorial/1009?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1009)
 - [解决绿色便携版 Chrome 打印预览失败问题](https://www.tjsky.net/tutorial/996?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-996)
-- [RTranslator –  一款 Android 开源离线本地实时同传翻译 APP](https://www.tjsky.net/ai/985?pk_campaign=feed&pk_kwd=https-www-tjsky-net-ai-985)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡️ **Activities**
