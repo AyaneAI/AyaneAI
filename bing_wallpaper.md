@@ -1016,3 +1016,5 @@
 20241004 | [Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)](https://www.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241005 | [Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](https://www.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241006 | [African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
