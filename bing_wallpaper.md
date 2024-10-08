@@ -1020,3 +1020,5 @@
 20241006 | [African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241007 | [Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)](https://www.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241008 | [The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)](https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
