@@ -1024,3 +1024,5 @@
 20241008 | [The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)](https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241009 | [Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)](https://www.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241010 | [Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
