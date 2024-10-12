@@ -1028,3 +1028,5 @@
 20241010 | [Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241011 | [Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)](https://www.bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241012 | [Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)](https://www.bing.com/th?id=OHR.CelticColours_EN-US9284206130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
