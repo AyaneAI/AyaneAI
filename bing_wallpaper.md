@@ -1030,3 +1030,5 @@
 20241011 | [Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)](https://www.bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241012 | [Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)](https://www.bing.com/th?id=OHR.CelticColours_EN-US9284206130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241013 | [Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)](https://www.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
