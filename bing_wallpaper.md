@@ -1034,3 +1034,5 @@
 20241013 | [Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)](https://www.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241014 | [Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)](https://www.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241015 | [Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona (© Andrew Peacock/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
