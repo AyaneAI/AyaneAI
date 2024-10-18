@@ -1040,3 +1040,5 @@
 20241016 | [Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)](https://www.bing.com/th?id=OHR.MaraMigration_EN-US9704012409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241017 | [Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)](https://www.bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241018 | [Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)](https://www.bing.com/th?id=OHR.MarsDunes_EN-US3465209450_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
