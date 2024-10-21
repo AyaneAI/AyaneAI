@@ -1046,3 +1046,5 @@
 20241019 | [Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)](https://www.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241020 | [Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)](https://www.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241021 | [Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
