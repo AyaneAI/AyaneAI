@@ -1050,3 +1050,5 @@
 20241021 | [Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241022 | [Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241023 | [Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)](https://www.bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
