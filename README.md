@@ -54,6 +54,6 @@
 🗻 **Bing Wallpaper**
 
 <!-- BING-WALLPAPER:START -->
-<img src="https://www.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp">
+<img src="https://www.bing.com/th?id=OHR.GhostForest_EN-US3389955484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp">
 <!-- BING-WALLPAPER:END -->
 
