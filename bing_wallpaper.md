@@ -1064,3 +1064,5 @@
 20241028 | [Polar bear mom and cub, Churchill, Manitoba, Canada (© Design Pics/plainpicture)](https://www.bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241029 | [Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)](https://www.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241030 | [Great horned owl (© Mark Newman/Getty Images)](https://www.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
