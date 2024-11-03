@@ -1072,3 +1072,5 @@
 20241101 | [Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](https://www.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241102 | [Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241103 | [American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
