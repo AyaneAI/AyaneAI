@@ -1076,3 +1076,5 @@
 20241103 | [American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241104 | [Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241105 | [Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)](https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
