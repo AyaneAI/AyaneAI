@@ -1078,3 +1078,5 @@
 20241104 | [Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241105 | [Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)](https://www.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241106 | [Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
