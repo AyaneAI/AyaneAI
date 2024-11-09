@@ -1084,3 +1084,5 @@
 20241107 | [Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241108 | [Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy)](https://www.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241109 | [Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)](https://www.bing.com/th?id=OHR.GlacialRivers_EN-US4356459123_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
