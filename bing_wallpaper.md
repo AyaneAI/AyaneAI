@@ -1090,3 +1090,5 @@
 20241110 | [Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241111 | [Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241112 | [Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)](https://www.bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
