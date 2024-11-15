@@ -1096,3 +1096,5 @@
 20241113 | [Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.CoveArch_EN-US4653050772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241114 | [California sea lion in a forest of giant kelp, Baja California, Mexico (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.KelpForest_EN-US4745308334_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241115 | [Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)](https://www.bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
