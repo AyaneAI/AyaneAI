@@ -1100,3 +1100,5 @@
 20241115 | [Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)](https://www.bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241116 | [Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241117 | [Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
