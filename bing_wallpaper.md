@@ -1106,3 +1106,5 @@
 20241118 | [Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)](https://www.bing.com/th?id=OHR.RedStag_EN-US3910525623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241119 | [Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241120 | [Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)](https://www.bing.com/th?id=OHR.TasmansArch_EN-US4274981499_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
