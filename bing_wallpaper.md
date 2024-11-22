@@ -1110,3 +1110,5 @@
 20241120 | [Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)](https://www.bing.com/th?id=OHR.TasmansArch_EN-US4274981499_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241121 | [Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://www.bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241122 | [Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)](https://www.bing.com/th?id=OHR.LionCubs_EN-US4742616367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
