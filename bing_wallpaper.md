@@ -1112,3 +1112,5 @@
 20241121 | [Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://www.bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241122 | [Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)](https://www.bing.com/th?id=OHR.LionCubs_EN-US4742616367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241123 | [Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)](https://www.bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
