@@ -1114,3 +1114,5 @@
 20241122 | [Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)](https://www.bing.com/th?id=OHR.LionCubs_EN-US4742616367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241123 | [Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)](https://www.bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241124 | [Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)](https://www.bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
