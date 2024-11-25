@@ -1116,3 +1116,5 @@
 20241123 | [Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)](https://www.bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241124 | [Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)](https://www.bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241125 | [Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
