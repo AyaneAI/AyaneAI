@@ -1120,3 +1120,5 @@
 20241125 | [Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241126 | [Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241127 | [Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)](https://www.bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
