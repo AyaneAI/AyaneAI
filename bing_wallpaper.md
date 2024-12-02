@@ -1130,3 +1130,5 @@
 20241130 | [Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)](https://www.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241201 | [Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241202 | [Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
