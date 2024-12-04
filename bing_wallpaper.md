@@ -1134,3 +1134,5 @@
 20241202 | [Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241203 | [Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)](https://www.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241204 | [Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)](https://www.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
