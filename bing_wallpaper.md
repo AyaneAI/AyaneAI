@@ -1138,3 +1138,5 @@
 20241204 | [Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)](https://www.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241205 | [Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)](https://www.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241206 | [Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
