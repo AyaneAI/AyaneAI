@@ -1144,3 +1144,5 @@
 20241207 | [Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)](https://www.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241208 | [Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)](https://www.bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241209 | [Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
