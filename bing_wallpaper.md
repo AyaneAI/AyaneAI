@@ -1148,3 +1148,5 @@
 20241209 | [Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241210 | [Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.GuanacosChile_EN-US8209106662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241211 | [The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)](https://www.bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
