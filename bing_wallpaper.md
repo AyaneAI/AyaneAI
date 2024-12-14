@@ -1154,3 +1154,5 @@
 20241212 | [Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)](https://www.bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241213 | [Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241214 | [Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
