@@ -1158,3 +1158,5 @@
 20241214 | [Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)](https://www.bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241215 | [Northern hawk-owl, Canada (© pchoui/Getty Images)](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241216 | [Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
