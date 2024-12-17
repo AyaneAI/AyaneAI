@@ -1160,3 +1160,5 @@
 20241215 | [Northern hawk-owl, Canada (© pchoui/Getty Images)](https://www.bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241216 | [Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241217 | [Salzburg, Austria (© bluejayphoto/Getty Images)](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
