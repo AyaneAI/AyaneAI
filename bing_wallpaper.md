@@ -1166,3 +1166,5 @@
 20241218 | [Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)](https://www.bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241219 | [English National Ballet performing 'The Nutcracker' (© Caroline Holden/Alamy)](https://www.bing.com/th?id=OHR.NutcrackerBallet_EN-US8927830113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241220 | [Christmas market in Sibiu, Romania (© Calin Stan/Alamy)](https://www.bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
