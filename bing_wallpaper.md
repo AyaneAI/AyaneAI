@@ -1174,3 +1174,5 @@
 20241222 | [Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)](https://www.bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241223 | [Christmas tree at Crystal Pier, Pacific Beach, San Diego, California (© SamAntonioPhotography/Getty Images)](https://www.bing.com/th?id=OHR.CrystalPier_EN-US0086755810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241224 | [Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)](https://www.bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
