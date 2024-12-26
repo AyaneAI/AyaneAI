@@ -1178,3 +1178,5 @@
 20241224 | [Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)](https://www.bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241225 | [Christmas market scene in Germany (© Cyril Gosselin/Getty Images)](https://www.bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241226 | [Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
