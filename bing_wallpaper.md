@@ -1182,3 +1182,5 @@
 20241226 | [Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](https://www.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241227 | [Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)](https://www.bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241228 | [Lake Bled, Slovenia (© Kesu01/Getty Images)](https://www.bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
