@@ -1188,3 +1188,5 @@
 20241229 | [A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)](https://www.bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20241230 | [Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)](https://www.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20241231 | [Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](https://www.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
