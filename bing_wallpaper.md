@@ -1198,3 +1198,5 @@
 20250103 | [Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250104 | [The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)](https://www.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250105 | [Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
