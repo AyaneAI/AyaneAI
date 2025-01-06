@@ -1200,3 +1200,5 @@
 20250104 | [The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)](https://www.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250105 | [Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250106 | [Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)](https://www.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
