@@ -1206,3 +1206,5 @@
 20250107 | [Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)](https://www.bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250108 | [Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)](https://www.bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250109 | [Snow on the Great Wall of China (© View Stock/Alamy)](https://www.bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
