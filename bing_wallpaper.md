@@ -1210,3 +1210,5 @@
 20250109 | [Snow on the Great Wall of China (© View Stock/Alamy)](https://www.bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250110 | [The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)](https://www.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250111 | [Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)](https://www.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
