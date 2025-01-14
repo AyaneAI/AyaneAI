@@ -1216,3 +1216,5 @@
 20250112 | [Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)](https://www.bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250113 | [Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)](https://www.bing.com/th?id=OHR.CrescentTail_EN-US7217745417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250114 | [Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)](https://www.bing.com/th?id=OHR.CoastalWales_EN-US9397534673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
