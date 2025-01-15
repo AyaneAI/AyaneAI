@@ -1218,3 +1218,5 @@
 20250113 | [Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)](https://www.bing.com/th?id=OHR.CrescentTail_EN-US7217745417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250114 | [Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)](https://www.bing.com/th?id=OHR.CoastalWales_EN-US9397534673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250115 | [Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)](https://www.bing.com/th?id=OHR.CadizSpain_EN-US9699586606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
