@@ -1224,3 +1224,5 @@
 20250116 | [The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250117 | [High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)](https://www.bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250118 | [Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images)](https://www.bing.com/th?id=OHR.PelicanPortrait_EN-US0510978735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
