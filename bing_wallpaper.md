@@ -1228,3 +1228,5 @@
 20250118 | [Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images)](https://www.bing.com/th?id=OHR.PelicanPortrait_EN-US0510978735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250119 | [Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)](https://www.bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250120 | [Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)](https://www.bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
