@@ -1232,3 +1232,5 @@
 20250120 | [Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)](https://www.bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250121 | [Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)](https://www.bing.com/th?id=OHR.KingMemorial_EN-US1319830882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250122 | [Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)](https://www.bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
