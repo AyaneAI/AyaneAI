@@ -1238,3 +1238,5 @@
 20250123 | [Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)](https://www.bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250124 | [Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)](https://www.bing.com/th?id=OHR.DeerValley_EN-US2128104711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250125 | [Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)](https://www.bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
