@@ -1240,3 +1240,5 @@
 20250124 | [Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)](https://www.bing.com/th?id=OHR.DeerValley_EN-US2128104711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250125 | [Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)](https://www.bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250126 | [Porto, Portugal (© Starcevic/Getty Images)](https://www.bing.com/th?id=OHR.PortoSunset_EN-US7987153816_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
