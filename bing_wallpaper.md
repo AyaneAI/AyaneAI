@@ -1242,3 +1242,5 @@
 20250125 | [Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)](https://www.bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250126 | [Porto, Portugal (© Starcevic/Getty Images)](https://www.bing.com/th?id=OHR.PortoSunset_EN-US7987153816_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250127 | [European beech forest in Belgium (© Philippe Moes/Minden Pictures)](https://www.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
