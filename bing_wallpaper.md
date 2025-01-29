@@ -1246,3 +1246,5 @@
 20250127 | [European beech forest in Belgium (© Philippe Moes/Minden Pictures)](https://www.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250128 | [Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250129 | [Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)](https://www.bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
