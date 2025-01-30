@@ -1248,3 +1248,5 @@
 20250128 | [Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250129 | [Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)](https://www.bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250130 | [Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)](https://www.bing.com/th?id=OHR.LunarDragon_EN-US9011723385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
