@@ -1264,3 +1264,5 @@
 20250205 | [Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)](https://www.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250206 | [Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)](https://www.bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250207 | [Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)](https://www.bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
