@@ -1272,3 +1272,5 @@
 20250209 | [Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](https://www.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250210 | [Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250212 | [Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)](https://www.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
