@@ -1296,3 +1296,5 @@
 20250222 | [Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250223 | [The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.StLouisArch_EN-US1920417205_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250224 | [Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
