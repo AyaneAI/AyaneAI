@@ -28,11 +28,11 @@
 📚 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [论爱艺奇的法务部门有多离谱，头一次见还能这样发 DMCA 的](https://www.tjsky.net/natter/1114?pk_campaign=feed&pk_kwd=https-www-tjsky-net-natter-1114)
 - [随机图片API：基于 Cloudflare Worker + 微博图床](https://www.tjsky.net/tutorial/1104?pk_campaign=feed&pk_kwd=%25e9%259a%258f%25e6%259c%25ba%25e5%259b%25be%25e7%2589%2587api%25ef%25bc%259a%25e5%259f%25ba%25e4%25ba%258e-cloudflare-worker-%25e5%25be%25ae%25e5%258d%259a%25e5%259b%25be%25e5%25ba%258a)
 - [年更话题：春运 12306 怎么抢票](https://www.tjsky.net/tutorial/1087?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1087)
 - [给博客增加 文章归档 和 年度统计 功能](https://www.tjsky.net/tutorial/1082?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1082)
 - [WindowTabs： 让几乎一切 Windows 窗口支持多标签功能](https://www.tjsky.net/best-software/1070?pk_campaign=feed&pk_kwd=https-www-tjsky-net-best-software-1070)
-- [一波多折的智能门锁购买与安装](https://www.tjsky.net/natter/1067?pk_campaign=feed&pk_kwd=https-www-tjsky-net-natter-1067)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡️ **Activities**
