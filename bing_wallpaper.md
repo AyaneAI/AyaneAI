@@ -1300,3 +1300,5 @@
 20250224 | [Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)](https://www.bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250225 | [Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary Bell/Minden Pictures)](https://www.bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250226 | [Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
