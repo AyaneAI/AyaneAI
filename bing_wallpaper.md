@@ -1302,3 +1302,5 @@
 20250225 | [Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary Bell/Minden Pictures)](https://www.bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250226 | [Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250227 | [Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
