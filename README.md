@@ -28,11 +28,11 @@
 📚 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [本地 AI 图片视频搜索引擎——MaterialSearch](https://www.tjsky.net/best-software/1121?pk_campaign=feed&pk_kwd=https-www-tjsky-net-best-software-1121)
 - [【资讯】AutoCAD 2022 在 Windows 11 24H2 上出现频繁崩溃 请不要升级你的系统或CAD](https://www.tjsky.net/news/1117?pk_campaign=feed&pk_kwd=https-www-tjsky-net-news-1117)
 - [论爱艺奇的法务部门有多离谱，头一次见还能这样发 DMCA 的](https://www.tjsky.net/natter/1114?pk_campaign=feed&pk_kwd=https-www-tjsky-net-natter-1114)
 - [随机图片API：基于 Cloudflare Worker + 微博图床](https://www.tjsky.net/tutorial/1104?pk_campaign=feed&pk_kwd=%25e9%259a%258f%25e6%259c%25ba%25e5%259b%25be%25e7%2589%2587api%25ef%25bc%259a%25e5%259f%25ba%25e4%25ba%258e-cloudflare-worker-%25e5%25be%25ae%25e5%258d%259a%25e5%259b%25be%25e5%25ba%258a)
 - [年更话题：春运 12306 怎么抢票](https://www.tjsky.net/tutorial/1087?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1087)
-- [给博客增加 文章归档 和 年度统计 功能](https://www.tjsky.net/tutorial/1082?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1082)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡️ **Activities**
