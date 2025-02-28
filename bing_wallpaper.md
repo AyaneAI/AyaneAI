@@ -1304,3 +1304,5 @@
 20250226 | [Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250227 | [Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)](https://www.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250228 | [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarCub_EN-US2740470421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
