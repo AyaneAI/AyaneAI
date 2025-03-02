@@ -1308,3 +1308,5 @@
 20250228 | [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarCub_EN-US2740470421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250301 | [Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250302 | [Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)](https://www.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
