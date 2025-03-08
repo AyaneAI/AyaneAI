@@ -1320,3 +1320,5 @@
 20250306 | [Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongkapech/Getty Images)](https://www.bing.com/th?id=OHR.SuratThani_EN-US3326265231_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250307 | [Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)](https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250308 | [Plum blossoms in China (© zhikun sun/Getty Images)](https://www.bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
