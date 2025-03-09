@@ -1322,3 +1322,5 @@
 20250307 | [Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)](https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 20250308 | [Plum blossoms in China (© zhikun sun/Getty Images)](https://www.bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+
+20250309 | [Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)](https://www.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
